@@ -2,7 +2,7 @@
 {{ $isSecondary := .isSecondary }}
 <nav class="nav nav--{{ if $isSecondary }}secondary{{ else }}primary{{ end }}">
   {{ if not $isSecondary }}
-    <a class="nav__home no-underline" href="{{ "/" | relURL }}">
+    <a class="nav__home no-underline" href="{{ $p.Site.Home.RelPermalink }}">
       {{ partial "logo.html" . }}
     </a>
     <button class="nav__toggle button-reset" aria-label="Menu">Menu</button>
@@ -16,11 +16,13 @@
         {{ $target := trim .url "/" }}
         {{ $isCurrent = eq $current $target }}
       {{ end }}
+      {{ $href := .url }}
+      {{ if eq .url "/" }}
+        {{ $href = $p.Site.Home.RelPermalink }}
+      {{ else if hasPrefix .url "/" }}
+        {{ $href = (strings.TrimPrefix "/" .url) | relURL }}
+      {{ end }}
       <li class="nav__item">
-        {{ $href := .url }}
-        {{ if hasPrefix .url "/" }}
-          {{ $href = .url | relURL }}
-        {{ end }}
         <a class="nav__link nav__link--{{ .label | urlize }} {{ if $isCurrent }}nav__link--current{{ end }} no-underline" href="{{ $href }}">{{ .label }}</a>
       </li>
     {{ end }}
