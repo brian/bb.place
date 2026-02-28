@@ -1,0 +1,15 @@
+{{!< default}}
+
+{{#post}}
+  <header class="page-header">
+    <h1 class="page-title">{{title}}</h1>
+  </header>
+{{/post}}
+
+{{#get "posts" limit="all" order="published_at desc" filter="tag:-[dispatch,kaleidoscope]"}}
+  {{#foreach posts}}
+    {{!-- Note: this is done is a dumb way via CSS --}}
+    <h2 class="year year-{{date format="YY"}}">{{date published_at format="YYYY"}}</h2>
+    {{> "article-mini"}}
+  {{/foreach}}
+{{/get}}

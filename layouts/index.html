@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range sort $posts "Date" "desc" }}
+    {{ $tags := .Params.tags | default (slice) }}
+    {{ if and (not (in $tags "dispatch")) (not (in $tags "kaleidoscope")) }}
+      {{ partial "article-full.html" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}

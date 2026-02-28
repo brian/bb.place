@@ -1,0 +1,8 @@
+{{ define "main_class" }} article {{ end }}
+{{ define "main" }}
+  {{ partial "article-header.html" . }}
+  {{ .Content }}
+{{ end }}
+{{ define "related" }}
+  {{ partial "related.html" . }}
+{{ end }}

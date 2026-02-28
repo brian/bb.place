@@ -1,0 +1,12 @@
+{{!< default}}
+
+{{#page}}
+  <header class="page-header">
+    <h1 class="page-title">{{title}}</h1>
+    <div class="page-description">{{content}}</div>
+  </header>
+{{/page}}
+
+{{#foreach posts}}
+  {{> "article-excerpt"}}
+{{/foreach}}

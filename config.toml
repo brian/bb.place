@@ -1,0 +1,77 @@
+baseURL = "https://bb.place/"
+languageCode = "en-us"
+title = "bb.place"
+summaryLength = 30
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  posts = "/:slug/"
+
+[params]
+  description = "A blog by Brian Bailey. Reflecting on life and celebrating favorite things. Rethinking assumptions and enlarging the circle of we. Join me on the front porch."
+  twitter = "https://twitter.com/bb"
+
+[[params.navigation]]
+  label = "Home"
+  url = "/"
+[[params.navigation]]
+  label = "About"
+  url = "/about/"
+[[params.navigation]]
+  label = "Archive"
+  url = "/archive/"
+[[params.navigation]]
+  label = "Uncommon"
+  url = "/uncommon/"
+[[params.navigation]]
+  label = "Kaleidoscope"
+  url = "/kaleidoscope/"
+[[params.navigation]]
+  label = "On Product Strategy"
+  url = "https://world.hey.com/bb"
+
+[[params.secondary_navigation]]
+  label = "The Front Porch"
+  url = "/uncommon/"
+[[params.secondary_navigation]]
+  label = "The Story"
+  url = "/uncommon/story/"
+[[params.secondary_navigation]]
+  label = "The Community"
+  url = "/uncommon/community/"
+[[params.secondary_navigation]]
+  label = "The Site"
+  url = "/uncommon/site/"
+[[params.secondary_navigation]]
+  label = "The Art"
+  url = "/uncommon/art/"
+[[params.secondary_navigation]]
+  label = "The End"
+  url = "/uncommon/end/"
+[[params.secondary_navigation]]
+  label = "Credits"
+  url = "/uncommon/credits/"
+[[params.secondary_navigation]]
+  label = "Love"
+  url = "/uncommon/love/"
+[[params.secondary_navigation]]
+  label = "Unfinished"
+  url = "/uncommon/unfinished/"
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "index"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

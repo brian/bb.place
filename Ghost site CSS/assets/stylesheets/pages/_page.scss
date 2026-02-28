@@ -1,0 +1,23 @@
+// ============================================================================
+// Page
+// ========================================================================== //
+
+.page-header {
+  border-bottom: $border-base;
+  margin-bottom: spacer(3xl);
+  padding-bottom: spacer(lg);
+}
+
+.page-header__logo {
+  margin-bottom: spacer(md);
+  width: 10rem;
+}
+
+.page-title {
+  margin-bottom: 0;
+}
+
+.page-description {
+  color: $text-color-light;
+  margin-top: spacer(sm);
+}

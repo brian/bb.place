@@ -1,0 +1,13 @@
+<article class="article article--full">
+  <header class="article__header">
+    {{ with .Params.primary_tag }}
+      <span class="article__category label text-sm">{{ . }}</span>
+    {{ end }}
+    <h1 class="article__title">
+      <a class="article__link no-underline" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h1>
+    <time class="article__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  </header>
+
+  {{ .Content }}
+</article>

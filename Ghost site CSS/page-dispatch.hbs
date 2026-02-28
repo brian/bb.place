@@ -1,0 +1,11 @@
+{{!< default}}
+
+<div class="archive-list">
+  {{#get "posts" limit="all" order="published_at asc" filter="primary_tag:dispatch"}}
+    {{#foreach posts}}
+      {{!-- Note: this is done is a dumb way via CSS --}}
+      <h2 class="year year-{{date format="YY"}}">{{date published_at format="YYYY"}}</h2>
+      {{> "article-mini"}}
+    {{/foreach}}
+  {{/get}}
+</div>

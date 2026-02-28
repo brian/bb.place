@@ -1,0 +1,29 @@
+// ============================================================================
+// Related Component
+// ============================================================================
+
+.related {
+  @include type-scale(sm);
+  border-top: solid 1px $blue;
+  margin-top: auto;
+  padding: 0 spacer() spacer();
+  text-align: center;
+}
+
+.related__title {
+  @include type-scale(xs);
+  background-color: $paper;
+  color: $blue;
+  display: inline-block;
+  letter-spacing: 0.1em;
+  margin-bottom: 0;
+  padding: 0 1em;
+  position: relative;
+  text-transform: uppercase;
+  transform: translateY(-1em);
+}
+
+.related__list {
+  padding: 0;
+  list-style-type: none;
+}

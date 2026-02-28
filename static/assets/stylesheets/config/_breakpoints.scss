@@ -1,0 +1,17 @@
+// ============================================================================
+// Breakpoint Config
+// ============================================================================
+
+$screen-2xs-up: "screen and (min-width: #{width(2xs)})";
+$screen-xs-up: "screen and (min-width: #{width(xs)})";
+$screen-sm-up: "screen and (min-width: #{width(sm)})";
+$screen-md-up: "screen and (min-width: #{width(md)})";
+$screen-lg-up: "screen and (min-width: #{width(lg)})";
+$screen-xl-up: "screen and (min-width: #{width(xl)})";
+
+$screen-2xs-down: "screen and (max-width: #{width(2xs) - 1px})";
+$screen-xs-down: "screen and (max-width: #{width(xs) - 1px})";
+$screen-sm-down: "screen and (max-width: #{width(sm) - 1px})";
+$screen-md-down: "screen and (max-width: #{width(md) - 1px})";
+$screen-lg-down: "screen and (max-width: #{width(lg) - 1px})";
+$screen-xl-down: "screen and (max-width: #{width(xl) - 1px})";

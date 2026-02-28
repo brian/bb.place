@@ -1,0 +1,15 @@
+---
+title: "Member Newsletter #10"
+slug: "member-newsletter-10"
+date: 2015-01-06T12:00:00Z
+draft: false
+type: "post"
+tags:
+  - "dispatch"
+internal_topics:
+primary_tag: "dispatch"
+include_in_feed: false
+author_name: "Brian Bailey"
+---
+
+<p>Hello friends,</p><p>I hope your 2015 is off to a promising start. I’m eager to see what the new year holds for our community. Who will we meet for the first time? What conversations will be sparked by a prompt or a story about a favorite thing? What moments will we share, online or in-person? What will we learn about ourselves and friends, old and new?</p><p>I’m also curious where we’ll get to mail welcome envelopes this year. On last count, there are members in 13 different countries: Australia, Canada, Croatia, Germany, England, Malta, Netherlands, Norway, Portugal, Scotland, South Africa, Sweden, and the United States. How wonderful that our community is shaped by such a variety of backgrounds and perspectives.</p><p>It might be helpful to clarify members in this context. You're receiving this email as a member of Uncommon. Members are those hearty souls who have joined the online community at uncommon.cc, either by purchasing a membership or being invited by someone who has*.</p><p>The dispatch you receive every other week goes to larger group of about 1,500 people. It has served us well; for many people, the dispatch is Uncommon. As our community adds members and more elements are added to the site, both will increasingly be the heart and focus of Uncommon. Down the road, this monthly email will evolve, as will the dispatch.</p><p>There are many different ways for people to be part of this story, but as a member of Uncommon, you are shaping and sustaining this unusual outpost of reflection and camaraderie. Uncommon wouldn't exist without you.</p><h2 id="tangibly-uncommon">Tangibly Uncommon</h2><p>As I mentioned last month, we have a new edition of Tangibly Uncommon, a package of original writing and artwork created by and for members of Uncommon. This edition features the first Uncommon tee and original essays by members of our community, Jennifer Brook and Jon Bell.</p><p>Thanks for everyone who has reserved a package. It's fun to experiment with different ideas and your response clarifies what's worth doing again. If you’d like one in your mailbox, we’ll take orders until January 15 and then start printing shirts, so grab yours before then. Plus, you're all invited to the packing party :)</p><h2 id="on-the-front-porch">On the front porch</h2><p>A few of the delightful things shared recently: Erin on mountains, Laura on Donovan, Adam on board games, and Andy on Portland. Of course, we had to do a memento for our many Uncommon friends in Portland. Take a look.</p><p>We have more lovely mementos in progress, chosen from your favorite things. We're also oh-so-close to sharing a collection of design improvements and will begin work on Stacks shortly with the help of a brand-new member of our team.</p><p>Please share your thoughts and questions anytime. If you'd like to chat or find yourself in Austin, just say the word.</p><p>Warmly,</p><p>Brian</p>

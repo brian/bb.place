@@ -1,0 +1,26 @@
+// ============================================================================
+// Spacer Config
+// ============================================================================
+
+$spacers: (
+  xs: 4px,
+  sm: 8px,
+  base: 16px,
+  md: 24px,
+  lg: 32px,
+  xl: 40px,
+  2xl: 48px,
+  3xl: 64px,
+  4xl: 80px,
+  5xl: 96px,
+  8vh: 8vh,
+  12vh: 12vh,
+  25vh: 25vh,
+  50vh: 50vh,
+  100vh: 100vh,
+);
+
+// Accessor
+@function spacer($key: base) {
+  @return map-get($spacers, $key);
+}

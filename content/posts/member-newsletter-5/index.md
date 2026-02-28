@@ -1,0 +1,15 @@
+---
+title: "Member Newsletter #5"
+slug: "member-newsletter-5"
+date: 2013-07-07T11:00:00Z
+draft: false
+type: "post"
+tags:
+  - "dispatch"
+internal_topics:
+primary_tag: "dispatch"
+include_in_feed: false
+author_name: "Brian Bailey"
+---
+
+<p>Greetings!</p><p>I hope your July is going swimmingly so far. A long, hot weekend is coming to a close here in Austin. It was filled with Uncommon work, which struck me as a great excuse to say hello to some of my favorite people, Uncommon's founding members.</p><p>We added a few things to the site today. The essays by Jack Cheng and Kathy Sierra that were part of your Tangibly Uncommon package are now online, along with a giving page that shares a little more about our partnership with Ag47.</p><p>There's also the first Uncommon Timeline. A few people have wished for an easy way to see where we've been and what's next. We have ideas for what this page will include down the road (along with fun design possibilites), but thought this was a good place to start.</p><h2 id="barton-springs">Barton Springs</h2><p>You'll see a brief overview of the next Uncommon release, Barton Springs. (The first, Dandelion Wine, was named by @etherbrian after the Ray Bradbury novel. Brad chose Barton Springs in tribute to one of Austin's defining spots.)</p><p>Favorite things are the heart of this release: adding our favorites and the stories behind them, seeing what others have shared, and marveling at the beautiful stamps. Next is sharing the wonderful postcard replies from each of you that arrived in the Uncommon mailbox. The final piece is inviting a friend to join you. If you recall, each membership includes a free year to share. These invites need to be more special than an email with a link, don't you agree? :)</p><p>There was a great moment recently when we were talking through an idea for the site and realized that what we had come up with was more rabbit hole than trampoline. Returning to that fundamental idea inspired an entirely different approach. As you create, always return to the values and ideas that inspired you in the first place and stay on course.</p><p>When the new release is ready, you will be the first to give it a go. In fact, we probably won't open the doors for about a month to give you and your invited friends a chance to make yourself at home. I'm sure you'll have lots of ideas for how to improve what you find, too :)</p><p>We're also continuing to bring more perspectives into the weekly dispatch. One thing we'd love to include is short interviews with people in the community — volunteers welcomed.</p><p>I leave you with two talks I watched this weekend that I think you'd enjoy: Hannah Donovan on <a href="http://vimeo.com/68252989">Craft and the Machine</a> and Robin Sloan on <a href="http://vimeo.com/63008757">Inventing Media</a>. Both resonated with me as I look to Uncommon's future.</p><p>Thanks for being such a big part of that future. Anytime you have questions or ideas, just drop me a note. I'd love to talk.</p><p>Until next time,</p><p>Brian</p>

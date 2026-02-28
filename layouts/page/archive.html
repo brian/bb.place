@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <header class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </header>
+
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range sort $posts "Date" "desc" }}
+    {{ $tags := .Params.tags | default (slice) }}
+    {{ if and (not (in $tags "dispatch")) (not (in $tags "kaleidoscope")) }}
+      <h2 class="year year-{{ mod .Date.Year 100 }}">{{ .Date.Format "2006" }}</h2>
+      {{ partial "article-mini.html" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,12 @@
+// ============================================================================
+// Label Component
+// ============================================================================
+
+.label {
+  background-color: rgba($ink, 0.1);
+  border-radius: 99rem;
+  display: inline-flex;
+  font-size: font-size(sm);
+  padding: 4px 12px;
+  text-decoration: none;
+}

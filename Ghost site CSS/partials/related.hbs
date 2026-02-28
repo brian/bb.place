@@ -1,0 +1,12 @@
+{{#get "posts" filter="tags:hash-{{slug}}" order="slug asc"}}
+  {{#if posts}}
+    <aside class="related">
+      <h3 class="related__title">More about {{../title}}</h3>
+      <ul class="related__list">
+        {{#foreach posts}}
+          <li><a href="{{url}}">{{title}}</a></li>
+        {{/foreach}}
+      </ul>
+    </aside>
+  {{/if}}
+{{/get}}

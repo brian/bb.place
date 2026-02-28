@@ -1,0 +1,20 @@
+{{ $topic := printf "hash-%s" (.Params.primary_tag | default "" | urlize) }}
+{{ if ne $topic "hash-" }}
+  {{ $related := where .Site.RegularPages "Section" "posts" }}
+  {{ $out := slice }}
+  {{ range $related }}
+    {{ if and (ne .RelPermalink $.RelPermalink) (in (.Params.internal_topics | default (slice)) $topic) }}
+      {{ $out = $out | append . }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $out) 0 }}
+    <aside class="related">
+      <h3 class="related__title">More about {{ .Params.primary_tag }}</h3>
+      <ul class="related__list">
+        {{ range sort $out "Date" "desc" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </aside>
+  {{ end }}
+{{ end }}

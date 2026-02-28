@@ -1,0 +1,77 @@
+/* ============================================================================
+ * Sidenote Component
+ * ==========================================================================*/
+
+// Sidenote
+// ----------------------------------------------------------------------------
+
+.sn {
+  @include type-scale(sm);
+  clear: right;
+  color: $text-color-light;
+  float: right;
+  margin-bottom: 0;
+  margin-right: calc((((100vw - #{width(sm)}) / 2) - 1rem) * -1);
+  padding-left: 1rem;
+  position: relative;
+  vertical-align: baseline;
+  width: calc(((100vw - #{width(sm)}) / 2) - 1rem);
+
+  @media screen and (min-width: 1320px) {
+    margin-right: -320px;
+    width: 320px;
+  }
+
+  @media screen and (max-width: 1080px) {
+    margin-right: -$sides-width;
+    width: $sides-width;
+  }
+
+  @media #{$screen-md-down} {
+    display: none;
+  }
+}
+
+// Hide everywhere except RSS feed readers
+.sn-paren {
+  display: none;
+}
+
+// Numbers
+// ----------------------------------------------------------------------------
+
+.sn-number {
+  @include type-scale(xs);
+  position: relative;
+  vertical-align: super;
+}
+
+// Sidenote Toggle
+// ----------------------------------------------------------------------------
+
+.sn-toggle {
+  &:hover,
+  &:focus {
+    color: $red;
+    cursor: pointer;
+  }
+
+  &:focus {
+    outline: none;
+
+    + .sn {
+      clear: both;
+      display: block;
+      float: left;
+      left: 1rem;
+      margin: 1rem 2.5%;
+      position: relative;
+      vertical-align: baseline;
+      width: 95%;
+    }
+  }
+
+  @media #{$screen-md-up} {
+    pointer-events: none;
+  }
+}

@@ -1,0 +1,7 @@
+{{ define "main_class" }} article article--full{{ end }}
+{{ define "main" }}
+  <header class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </header>
+  {{ .Content }}
+{{ end }}

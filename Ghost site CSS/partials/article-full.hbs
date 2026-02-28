@@ -1,0 +1,15 @@
+<article class="article article--full">
+  <header class="article__header">
+    {{#if primary_tag}}
+      {{#primary_tag}}
+      <span class="article__category label text-sm">{{name}}</span>
+      {{/primary_tag}}
+    {{/if}}
+    <h1 class="article__title">
+      <a class="article__link no-underline" href="{{url}}">{{title}}</a>
+    </h1>
+    <time class="article__date" datetime="{{date format="YYYY-MM-DD"}}">{{date}}</time>
+  </header>
+
+  {{content}}
+</article>

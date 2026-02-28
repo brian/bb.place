@@ -1,0 +1,31 @@
+{{ $p := .page }}
+{{ $isSecondary := .isSecondary }}
+<nav class="nav nav--{{ if $isSecondary }}secondary{{ else }}primary{{ end }}">
+  {{ if not $isSecondary }}
+    <a class="nav__home no-underline" href="/">
+      {{ partial "logo.html" . }}
+    </a>
+    <button class="nav__toggle button-reset" aria-label="Menu">Menu</button>
+  {{ end }}
+  <ul class="nav__list">
+    {{ $items := cond $isSecondary $p.Site.Params.secondary_navigation $p.Site.Params.navigation }}
+    {{ range $items }}
+      {{ $isCurrent := false }}
+      {{ if hasPrefix .url "/" }}
+        {{ $current := trim $p.RelPermalink "/" }}
+        {{ $target := trim .url "/" }}
+        {{ $isCurrent = eq $current $target }}
+      {{ end }}
+      <li class="nav__item">
+        <a class="nav__link nav__link--{{ .label | urlize }} {{ if $isCurrent }}nav__link--current{{ end }} no-underline" href="{{ .url }}">{{ .label }}</a>
+      </li>
+    {{ end }}
+    {{ if not $isSecondary }}
+      <li class="nav__footer">
+        <a class="nav__footer-link" rel="me" href="https://twitter.com/bb">@bb</a>
+        <a class="nav__footer-link" href="/rss/index.xml">RSS</a>
+        <div class="nav__footer-name">Brian Bailey &copy; {{ now.Format "2006" }}</div>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

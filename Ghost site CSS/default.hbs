@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{@site.locale}}">
+<head>
+  <title>{{meta_title}}</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="{{asset "bb.css"}}" />
+  {{ghost_head}}
+</head>
+<body class="{{body_class}}">
+  <header class="header">
+    {{navigation}}
+  </header>
+  <div class="content">
+    <main class="main{{{block "main_class"}}}">
+      {{{body}}}
+    </main>
+    {{{block "related"}}}
+    {{{block "pager"}}}
+    <footer class="footer">
+      <div>
+        <a href="{{@site.url}}">{{@site.title}}</a>
+        by
+        <a href="https://twitter.com/bb" target="_blank" rel="noopener noreferrer">@bb</a>
+        |
+        <a href="#/portal/signup">Get Kaleidoscope in your inbox</a>
+      </div>
+      <div>Copyright &copy; 2010&ndash;{{date format="YYYY"}} Brian Bailey</div>
+    </footer>
+  </div>
+  <script src="{{asset "bb.js"}}"></script>
+  <script src="{{asset "prism.js"}}"></script>
+  {{ghost_foot}}
+</body>
+</html>

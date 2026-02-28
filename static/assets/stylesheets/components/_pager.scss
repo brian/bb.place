@@ -1,0 +1,73 @@
+// ============================================================================
+// Pager Component
+// ============================================================================
+
+.pager {
+  @include type-scale(sm);
+  border-top: $border-base;
+  margin-top: auto;
+
+  .related + & {
+    margin-top: 0;
+  }
+}
+
+.pager__link {
+  color: $text-color-light;
+  display: flex;
+  gap: 1em;
+  padding: spacer() 0;
+  text-decoration: none;
+
+  &:hover {
+    color: $red;
+  }
+}
+
+.pager__title {
+  color: $text-color-base;
+}
+
+// Larger Screens
+// ----------------------------------------------------------------------------
+
+@media #{$screen-xs-up} {
+  .pager {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: spacer(sm);
+  }
+
+  .pager__arrow {
+    transition: transform 150ms ease-out;
+
+    .pager__link--prev:hover &,
+    .pager__link--prev:focus & {
+      transform: translateX(-4px);
+    }
+
+    .pager__link--next:hover &,
+    .pager__link--next:focus & {
+      transform: translateX(4px);
+    }
+  }
+
+  .pager__link--next {
+    grid-column-start: 2;
+    justify-content: flex-end;
+    text-align: right;
+  }
+}
+
+// Smaller Screens
+// ----------------------------------------------------------------------------
+
+@media #{$screen-xs-down} {
+  .pager__link--next {
+    border-top: $border-base;
+
+    .pager__arrow {
+      order: -1;
+    }
+  }
+}

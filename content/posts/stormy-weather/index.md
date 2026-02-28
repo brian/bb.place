@@ -1,0 +1,14 @@
+---
+title: "Stormy Weather"
+slug: "stormy-weather"
+date: 2014-07-22T05:00:00Z
+draft: false
+type: "post"
+tags:
+internal_topics:
+primary_tag: ""
+include_in_feed: true
+author_name: "Brian Bailey"
+---
+
+<p>Storms were on my mind a lot growing up in the midwest. Spring and summer brought regular thunderstorms. One Saturday every month, the tornado warning siren was tested. Then, winter arrived with heavy snowfalls, strong winds, and the annual ice storm that would knock out power for days.</p><p>Since then, I've had three memorable encounters with the power of storms.</p><p>First, on a trip to Colorado, we were returning from a hike. A storm gathered nearby, close enough that we were walking quickly toward our cabin, but with only a light rain to show for it so far.</p><p>Then, there was a lightning strike so close I still get chills remembering the sound and site of electricity buzzing through the air. It sounded like a cartoon. Immediately after the strike was the loudest crack of thunder I've ever heard. I had no idea how distant my previous encounters with thunder and lightning had been.</p><p>Second, we were preparing to spend the final night in our house in Dallas before moving to Austin. A storm began to brew, then the tornado siren sounded, the power went out, and we found ourselves sitting in my son's empty closet as the worst storm of the thirteen years we had lived there blew through. (Yes, worse than when we saw a neighbor's kiddy pool hovering near their 2nd story window hoping to escape). We woke to trees snapped in half on our street and shaky video of a tornado that had passed about four miles away. We were able to confirm our house hadn't been damaged just an hour before we went to sign the closing papers.</p><p>Finally, on a vacation in Maine, we stayed in an old farmhouse in a small town. On our last night, a huge summer storm arrived. The unfamiliar sounds of the house heightened our sense of uncertainty as we sat in a tiny, wooden staircase, curious how much the walls and roof could withstand.</p><p>We found a story online about the storm the next morning. It described how a tornado had passed through the town, knocking out power and trees, and blocking roads. The story mentioned a specific intersection that sounded familiar. Indeed, it was where we turned each day to reach the house, exactly one mile away. Apparently we experienced 50% of Maine's tornadoes that year. The state averages just two.</p><p>I think one reason storms are so captivating is that we're very good at controlling our environment. We make our workspaces, autos, living rooms, and phones exactly how we want them. Then suddenly, a force steps into the picture with enormous, unpredictable power, completely outside of our control. The people I know who love storms embrace that unpredictability in other areas, too. I'm still learning.</p>

@@ -1,0 +1,15 @@
+---
+title: "Move along"
+slug: "move-along"
+date: 2016-08-16T11:00:00Z
+draft: false
+type: "post"
+tags:
+  - "dispatch"
+internal_topics:
+primary_tag: "dispatch"
+include_in_feed: false
+author_name: "Brian Bailey"
+---
+
+<p>This is second issue in this season of dispatches called The Big Mo. We're exploring the part momentum plays in projects, relationships, and our own lives. How can we build and sustain forward momentum? How do we keep from being pulled backwards? And when does it make sense to just stand still?</p><p>In this edition, let’s look at the projects that fill our days, whether at work or at home. Maybe you’re working toward a goal for the quarter or need to hire a key role for your team. Perhaps you’re creating something new in your own time (like one of our Works in Progress), preparing for a move, or getting everything in place for a new school year.</p><p>Working on a project with a lot of momentum is exhilarating. Each step forward is easier than the one before and it feels like progress is inevitable. The work moves forward almost without resistance, as if you've passed the peak and started downhill.</p><p>There are two things I've found that make this sort of momentum possible: getting others involved and expanding what progress means.</p><p>Momentum is absolutely part of solo work, but there are many benefits to bringing others into the effort. In a large project, there will be closed doors and periodic disappointments. More importantly, there will be times when you have more doubt than confidence or the project needs a level of focus that you can't give it.</p><p>Whenever I've involved others with Uncommon, at work, a family project, even a book, it has made a huge difference. Each person brings ideas and perspective that I don’t have. They also push things forward when I might otherwise lose momentum. If you’ve ever tried to free a car from snow or mud, you know what a difference each additional person makes.</p><p>It’s not always easy to ask for help, share credit, and let others shape something you’re intimately wrapped up with. But what matters most is that something that didn’t exist before exists now. That doesn’t happen without the momentum of multiple people pushing in the same direction.</p><p>The other secret I’ve learned is to be creative when you’re searching for signs of progress. Too often, we define progress narrowly, so that there’s only one way forward. Instead, look for progress wherever you can find it.</p><p>For example, if you’re writing a book, your goal is to finish chapters. If that’s your only measure of progress, though, you'll quickly become discouraged when you're struggling to string a handful of sentences together.</p><p>Instead, find other ways to make progress: be brave and share the first few chapters with a friend, edit an earlier chapter, make a rough outline of the next few chapters, interview someone to provide additional details and context for a key character, or sketch your ideal book cover.</p><p>Every bit of progress, no matter how small, fuels momentum and makes the next step that much easier. No matter what, keep moving forward.</p>

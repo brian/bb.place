@@ -1,0 +1,80 @@
+// ============================================================================
+// Layout
+// ============================================================================
+
+// Body
+// ----------------------------------------------------------------------------
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: 100vh;
+
+  @media #{$screen-md-up} {
+    display: grid;
+    grid-template-columns: minmax($sides-width, 1fr) minmax(1rem, 64ch) minmax($sides-width, 1fr);
+    grid-gap: spacer(md);
+  }
+}
+
+// Header
+// ----------------------------------------------------------------------------
+
+.header {
+  background-color: $paper;
+
+  a {
+    transition: 100ms color ease-out;
+  }
+
+  @media #{$screen-md-up} {
+    align-items: flex-start;
+    display: flex;
+    justify-content: center;
+    padding: $y-padding 0 0 spacer();
+  }
+
+  @media #{$screen-md-down} {
+    padding: 0;
+    position: sticky;
+    top: 0;
+  }
+}
+
+// Main
+// ----------------------------------------------------------------------------
+
+.content {
+  display: flex;
+  flex-direction: column;
+
+  @media #{$screen-md-up} {
+    min-height: 100vh;
+    padding-top: $y-padding;
+  }
+
+  @media #{$screen-md-down} {
+    flex: 1;
+    padding: 8vh spacer();
+  }
+}
+
+.main {
+  margin-bottom: spacer(xl);
+}
+
+// Footer
+// ----------------------------------------------------------------------------
+
+.footer {
+  @include type-scale(xs);
+  border-top: $border-base;
+  color: $text-color-light;
+  margin-top: auto;
+  padding: spacer(lg) 0;
+
+  .pager + & {
+    margin-top: 0;
+  }
+}

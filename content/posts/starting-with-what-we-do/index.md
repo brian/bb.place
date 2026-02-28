@@ -1,0 +1,14 @@
+---
+title: "Starting with What We Do"
+slug: "starting-with-what-we-do"
+date: 2014-04-15T05:00:00Z
+draft: false
+type: "post"
+tags:
+internal_topics:
+primary_tag: ""
+include_in_feed: true
+author_name: "Brian Bailey"
+---
+
+<p>Across the restaurant table for the first time or maybe at a large gathering of unfamiliar people, the questions are heard again and again.</p><p><em>Where do you work? What do you do?</em></p><p>Our work defines us in many ways. When we pour ourselves into work that we love, there are few things more rewarding. When we're frustrated, overworked, or unmotivated, the rest of the hours in our day are often more of the same.</p><p>When I think about different times in my life, the job I had is one of the first things to come to mind. In high school, I worked at a tiny company that built, sold, and repaired computers under its own name. I became an expert at installing hard drives (and dual-floppies for <em>fast copying</em>), operating systems, and the first software I ever mastered, WordPerfect. A friend and I advertised a summer computer camp for kids and only realized what we had gotten ourselves into when an actual 9-year old boy was dropped off on the first day.</p><p>One summer during college, I worked at a country club attempting to hold on to its former grandeur. It was my only experience in food service—a burgers, snacks, and ice cream shack located just off of the 18th hole. The pool was right next door, so my main memory of the summer is watching endless hours of practice for a <em>Little Mermaid</em> performance by a large group of children and admirably patient lifeguards. <a href="https://www.youtube.com/watch?v=VyFVG4VfPmg">Poor Unfortunate Souls</a> will long be with me. <em>Keep singing!</em></p><p>The job I truly loved during those years was working in the library and computer lab at a residential college within Michigan State. Both were located in my dorm, so I didn't even have to step outside during the bitter winter days. With my key, I could access both anytime I needed, and play the hero when others were similarly desperate. The biggest perks were unlimited printing and first access to the Sunday <em>New York Times</em>. And I enjoyed the actual work, too, answering questions and solving the problems of stressed, tired students with deadlines rapidly approaching. It was wonderful.</p><p>I used to think it was odd that introductions begin with questions about work, but we're just looking for easy ways to contextualize each other. Our work, along with where we're from and where we live, just happens to be the fastest route.</p><p>We know that there's more to our stories, and the stories of the people we meet, though. We are shaped by our work, but we are defined by our friends and loved ones, and the moments we share together. Those treasured relationships often start with "What do you do?", but they begin to flourish in the questions and conversations that come next.</p>

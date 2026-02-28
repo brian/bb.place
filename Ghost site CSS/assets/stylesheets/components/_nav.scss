@@ -1,0 +1,241 @@
+// ============================================================================
+// Nav Component
+// ============================================================================
+
+// Base
+// ----------------------------------------------------------------------------
+
+.nav {
+  color: $ink-light;
+  margin: 0 auto;
+
+  @media #{$screen-md-up} {
+    display: inline-flex;
+    flex-direction: column;
+  }
+}
+
+.nav--primary {
+  @media #{$screen-md-up} {
+    position: sticky;
+    top: $y-padding;
+  }
+
+  @media #{$screen-md-down} {
+    align-items: center;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    padding-left: spacer(lg);
+    height: $mobile-nav-height;
+
+    &:not(.nav--open) {
+      border-bottom: $border-base;
+    }
+  }
+}
+
+.nav--secondary {
+  @include type-scale(sm);
+}
+
+// Logo
+// ----------------------------------------------------------------------------
+
+.nav__home {
+  text-decoration: none;
+
+  &:hover {
+    .logo__bb { fill: $red; }
+    .logo__place { fill: $blue; }
+  }
+}
+
+.logo {
+  height: spacer(md);
+
+  @media #{$screen-md-up} {
+    height: spacer(xl);
+  }
+
+  path {
+    transition: fill 150ms ease-out;
+  }
+}
+
+.logo__bb { fill: $blue; }
+.logo__place { fill: $red; }
+
+// List
+// ----------------------------------------------------------------------------
+
+.nav__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav--primary .nav__list {
+  @media #{$screen-md-up} {
+    margin-top: $y-padding-sm;
+  }
+
+  @media #{$screen-md-down} {
+    background-color: $paper;
+    border-bottom: $border-base;
+    border-radius: 1rem;
+    bottom: 0;
+    box-shadow: 0 spacer(sm) spacer() rgba(black, 0.15);
+    left: spacer();
+    opacity: 0;
+    padding-top: spacer(sm);
+    pointer-events: none;
+    position: absolute;
+    right: spacer();
+    transform: translateY(100%);
+    transition: opacity 150ms linear;
+    visibility: hidden;
+    z-index: 1;
+  }
+}
+
+.nav--open .nav__list {
+  display: block;
+  opacity: 1;
+  pointer-events: all;
+  visibility: visible;
+}
+
+.nav__link {
+  align-items: center;
+  color: inherit;
+  display: flex;
+  min-height: spacer(lg);
+  text-decoration: none;
+
+  @media #{$screen-md-down} {
+    .nav--primary & {
+      height: 44px;
+      padding: 0 spacer(lg);
+    }
+  }
+}
+
+.nav__link:hover,
+.nav__link--current {
+  color: $ink;
+}
+
+.nav__link--current {
+  font-weight: font-weight(semi);
+}
+
+.nav__footer {
+  display: flex;
+  flex-flow: wrap;
+  font-size: font-size(xs);
+
+  @media #{$screen-md-up} {
+    margin-top: $y-padding-sm;
+  }
+
+  @media #{$screen-md-down} {
+    align-items: center;
+    border-top: $border-base;
+    height: spacer(3xl);
+    margin-top: spacer(sm);
+    padding: 0 spacer(lg);
+
+    .nav__link,
+    .nav__text {
+      align-items: center;
+      display: flex;
+      flex: 1;
+      justify-content: center;
+    }
+  }
+
+  .nav__link,
+  .nav__text {
+    padding: spacer(sm);
+    white-space: nowrap;
+  }
+
+  .nav__footer-link {
+    &:first-child {
+      margin-right: spacer();
+    }
+  }
+
+  .nav__footer-name {
+    width: 100%;
+
+    @media #{$screen-md-down} {
+      margin-left: auto;
+      width: auto;
+    }
+  }
+}
+
+// Toggle
+// ----------------------------------------------------------------------------
+
+.nav__toggle {
+  align-self: stretch;
+  padding: 0 spacer(lg);
+
+  &:focus {
+    color: $ink;
+    outline: none;
+  }
+
+  @media #{$screen-md-up} {
+    display: none;
+  }
+}
+
+// Uncommon
+// ----------------------------------------------------------------------------
+
+.page-story,
+.page-community,
+.page-site,
+.page-art,
+.page-end,
+.page-credits,
+.page-love,
+.page-unfinished {
+  .nav__link--uncommon {
+    @extend .nav__link--current;
+  }
+}
+
+// Secondary
+// ----------------------------------------------------------------------------
+
+.nav--secondary {
+  margin-top: spacer(lg);
+  white-space: nowrap;
+  width: 100%;
+
+  .nav__list {
+    list-style-type: decimal-leading-zero;
+    padding-left: 2em;
+  }
+
+  .nav__item {
+    break-inside: avoid;
+  }
+
+  @media screen and (min-width: 400px) {
+    .nav__list {
+      columns: 2;
+    }
+  }
+
+  @media #{$screen-md-down} {
+    .nav__link {
+      padding: 0;
+    }
+  }
+}

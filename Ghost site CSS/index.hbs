@@ -1,0 +1,7 @@
+{{!< default}}
+
+{{#get "posts" limit="all" order="published_at desc" filter="tag:-[dispatch,kaleidoscope]"}}
+  {{#foreach posts}}
+    {{> "article-full"}}
+  {{/foreach}}
+{{/get}}

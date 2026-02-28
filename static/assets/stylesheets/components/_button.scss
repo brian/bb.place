@@ -1,0 +1,81 @@
+// ============================================================================
+// Button Component
+// ============================================================================
+
+// Tools
+// ----------------------------------------------------------------------------
+
+@function button-focus($color-name) {
+  $color: if($color-name == white, white, color($color-name, 50));
+  @return 0 0 0 $border-width-md rgba($color, 0.5);
+}
+
+// Base
+// ----------------------------------------------------------------------------
+
+.button {
+  align-items: center;
+  background-color: rgba($ink, 0.1);
+  border-radius: 8px;
+  border: solid 1px transparent;
+  color: $ink;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: font-size(sm);
+  font-weight: normal;
+  height: 44px;
+  padding: 0 0.875em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: all 100ms ease-out;
+  user-select: none;
+  vertical-align: middle;
+
+  &:hover,
+  &:focus {
+    background-color: rgba($ink, 0.2);
+    color: $ink;
+  }
+
+  &:focus,
+  &:active {
+    outline: none;
+  }
+
+  &:active,
+  &.active {
+    background-color: rgba($ink, 0.3);
+  }
+
+  &:disabled,
+  &.disabled {
+    color: rgba($ink, 0.35);
+    cursor: not-allowed;
+    pointer-events: none; // Future-proof disabling of clicks on `<a>` elements
+  }
+}
+
+// Reset
+// ----------------------------------------------------------------------------
+
+.button-reset {
+  -webkit-appearance: none;
+  background: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  line-height: normal;
+  margin: 0;
+  overflow: visible;
+  padding: 0;
+  width: auto;
+
+  &:focus,
+  &:active {
+    outline: 2px solid $red;
+    outline-offset: -2px;
+  }
+}

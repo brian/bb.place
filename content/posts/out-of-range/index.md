@@ -1,0 +1,14 @@
+---
+title: "Out of Range"
+slug: "out-of-range"
+date: 2012-12-30T06:00:00Z
+draft: false
+type: "post"
+tags:
+internal_topics:
+primary_tag: ""
+include_in_feed: true
+author_name: "Brian Bailey"
+---
+
+<p>There's an emotional allure to live performances. The best concerts are not note-for-note reproductions of favorite songs. The artist feeds off of the crowd and they combine to create something unique to that moment. When I think back on concerts I've experienced (whether in person or not), the moments I remember are the mistakes and surprises: Chris Martin forgetting the next verse at a Coldplay Austin City Limits taping, Gary Clark Jr. breaking a guitar string, the Trey Anastasio Band playing a song they learned on the tour bus a few hours earlier, and <a href="http://youtu.be/PsXdI7NUHpY?t=2m0s">Radiohead stopping a song</a> to get someone help, then continuing right where they left off. There was the time when Arcade Fire grabbed a branch from the ACL set and used it to beat a drum, and this <a href="http://youtu.be/QH5YmETzZF4?t=1h20m">great moment from Madison Square Garden</a>.</p><blockquote>And you're going to be like, "Remember when I saw Arcade Fire and they played the first minute of their song and they started over? That was the best moment of my life."</blockquote><p>The energy of the audience and band change after that. Now, they've shared something memorable.</p><p>A live concert is one of the few chances to experience such imperfections and unexpected moments.</p><p>The Sigur Rós song, Ára Bátur, gives me chills whenever I listen to it. There is a note that the lead singer, Jónsi, has to strain to reach as it lies just beyond his enormous range. You can hear his effort to reach the note, which makes for an emotional performance.</p><p>The song was actually recorded live at Abbey Road Studios and the <a href="http://www.youtube.com/watch?v=8VvB_UmmIzk">performance filmed</a> (the specific moments I'm referring to <a href="http://youtu.be/8VvB_UmmIzk?t=5m35s">begin at 5:50</a>.)</p><p>Technology encourages us to chase perfection, but often it's at the expense of unexpected moments and emotional connection. Like Auto-Tune, we try to calibrate our products and experiences to remove any imperfections or surprises. (Of course, apps like health and banking are best free of surprises.)</p><p>A fun example of surprise was <a href="https://www.glitchthegame.com">Glitch</a>, the  online game which lived a brief life. It started with months of beta testing that happened in short bursts. The game would be available for just a day or a weekend and you never knew when the next opportunity to play would be. You had to drop everything and jump in or miss out.</p><p>I want to seek out small moments of surprise and delight, great moments instead of perfection.</p><p>I want to reach for notes that are just out of my range.</p>

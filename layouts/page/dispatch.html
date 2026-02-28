@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="archive-list">
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range sort $posts "Date" "asc" }}
+    {{ if eq (.Params.primary_tag | default "") "dispatch" }}
+      <h2 class="year year-{{ mod .Date.Year 100 }}">{{ .Date.Format "2006" }}</h2>
+      {{ partial "article-mini.html" . }}
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,14 @@
+---
+title: "Culture Fit"
+slug: "culture-fit"
+date: 2012-05-15T00:00:00Z
+draft: false
+type: "post"
+tags:
+internal_topics:
+primary_tag: ""
+include_in_feed: true
+author_name: "Brian Bailey"
+---
+
+<p>It's an article of faith that culture fit is nearly as important as skills when hiring at a startup. I agree that's it's a critical part of a team's success, but it can also  inadvertently lead to a homogenized culture that hurts rather than helps.</p><p>When I first heard culture fit used in regards to hiring, it referred to how people view their work and the company or product. For me, these two are absolutely essential. Every person on the team should share a similar passion for the work they do and what they're building. Especially when the team is small, a lack of work ethic or belief in the product has the potential to kill your momentum and create resentment and conflict. I don't mean that work should be someone's life or that every job should be a cause, just that each person should believe in what they do and do it to the best of their ability.</p><p>Today, culture fit has started to mean something different. It's become more common for startups to seek people who are like the people who started them and build a team around shared interests: from movies, television shows, games, music and other pop culture ephemera to how someone likes to spend their evenings and weekends. Do you like karaoke?  Do you love to hike?  Are your favorite drinks our favorite drinks?</p><p>It makes sense. If you have the choice between two candidates with similar skills, you're naturally going to lean toward the one who you have the most in common with. The interview probably went better and they seem like someone you'd enjoy following on Twitter. Plus, they'll get along with the rest of the team really well.</p><p>If I was starting a company, I would do the same thing. In fact, I'd probably see it as one of the benefits of having my own company. Imagine, going to work every day with a group of people who are like me! We'll provide free chai and the company playlist will be filled with my favorites. We'll make lots of West Wing references and everyone will receive a book allowance.</p><p>It's not healthy, though, and produces a stagnant culture. When everyone at the company shares similar interests and sees the world in the same way, your perspective becomes extremely narrow. It can be difficult to see potential challenges or take them seriously. Criticism from users, advisors, and the press fails to resonate because <em>no one we know</em> sees things that way. More importantly, the ideas and creativity that come from unexpected combinations of different perspectives and personalities are nowhere to be found.</p><p>Look for similarity in vision, work ethic, kindness, and openness. Look for diversity in everything else.</p>
