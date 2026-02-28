@@ -13,6 +13,8 @@ enableRobotsTXT = true
 [params]
   description = "A blog by Brian Bailey. Reflecting on life and celebrating favorite things. Rethinking assumptions and enlarging the circle of we. Join me on the front porch."
   twitter = "https://twitter.com/bb"
+  twitter_handle = "@bb"
+  og_image = "assets/images/bb-logo.svg"
 
 [[params.navigation]]
   label = "Home"

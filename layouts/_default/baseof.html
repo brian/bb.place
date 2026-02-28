@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
+  {{ $title := cond .IsHome .Site.Title (printf "%s | %s" .Title .Site.Title) }}
+  {{ $description := .Description | default .Params.description | default .Site.Params.description }}
+  {{ $image := .Params.og_image | default .Params.feature_image | default .Site.Params.og_image }}
+  {{ $twitterHandle := .Site.Params.twitter_handle | default "@bb" }}
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+  <meta name="description" content="{{ $description | plainify }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:title" content="{{ $title }}" />
+  <meta property="og:description" content="{{ $description | plainify }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ with $image }}<meta property="og:image" content="{{ . | absURL }}" />{{ end }}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ $title }}" />
+  <meta name="twitter:description" content="{{ $description | plainify }}" />
+  {{ with $image }}<meta name="twitter:image" content="{{ . | absURL }}" />{{ end }}
+  <meta name="twitter:site" content="{{ $twitterHandle }}" />
   <link rel="stylesheet" type="text/css" href="{{ "assets/bb.css" | relURL }}" />
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}" />{{ end }}
 </head>
