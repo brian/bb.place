@@ -7,7 +7,7 @@
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-  <link rel="stylesheet" type="text/css" href="/assets/bb.css" />
+  <link rel="stylesheet" type="text/css" href="{{ "assets/bb.css" | relURL }}" />
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}" />{{ end }}
 </head>
 <body class="{{ if .IsHome }}home-template{{ else if eq .Section "posts" }}post-template{{ else if .IsPage }}page-template page-{{ .Slug }}{{ else }}{{ .Kind }}-template{{ end }}">
@@ -22,16 +22,16 @@
     {{ block "pager" . }}{{ end }}
     <footer class="footer">
       <div>
-        <a href="/">{{ .Site.Title }}</a>
+        <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
         by
         <a href="https://twitter.com/bb" target="_blank" rel="noopener noreferrer">@bb</a>
         |
-        <a href="/kaleidoscope/">Kaleidoscope</a>
+        <a href="{{ "kaleidoscope/" | relURL }}">Kaleidoscope</a>
       </div>
       <div>Copyright &copy; 2010&ndash;{{ now.Format "2006" }} Brian Bailey</div>
     </footer>
   </div>
-  <script src="/assets/bb.js"></script>
-  <script src="/assets/prism.js"></script>
+  <script src="{{ "assets/bb.js" | relURL }}"></script>
+  <script src="{{ "assets/prism.js" | relURL }}"></script>
 </body>
 </html>

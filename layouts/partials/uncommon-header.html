@@ -1,5 +1,5 @@
 <header class="page-header">
-  <img class="page-header__logo" src="/assets/images/uncommon-logo-color.svg" alt="Uncommon">
+  <img class="page-header__logo" src="{{ "assets/images/uncommon-logo-color.svg" | relURL }}" alt="Uncommon">
   <h1 class="page-title">{{ .Title }}</h1>
   {{ partial "navigation.html" (dict "page" . "isSecondary" true) }}
 </header>
