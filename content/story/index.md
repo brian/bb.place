@@ -5,6 +5,7 @@ date: 2021-06-27T16:49:53Z
 draft: false
 type: "page"
 layout: "uncommon"
+url: /uncommon/story/
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://bb.place/content/images/2021/08/illustration-cafe-1.png" class="kg-image" alt="A drawing of a city street featuring people sitting outside the Uncommon Cafe" loading="lazy" width="1024" height="768" srcset="https://bb.place/content/images/size/w600/2021/08/illustration-cafe-1.png 600w, https://bb.place/content/images/size/w1000/2021/08/illustration-cafe-1.png 1000w, https://bb.place/content/images/2021/08/illustration-cafe-1.png 1024w" sizes="(min-width: 720px) 720px"><figcaption>Art by BJ Heinley</figcaption></figure><p></p><p>Uncommon's story is captured in the Dispatch, the weekly community newsletter, which ran for over four years. The history has been <a href="https://bb.place/uncommon/story/dispatch/">archived here</a>, including the delightful guest contributions and the separate member newsletter.</p><p>They capture the community first taking shape, big milestones and small steps forward, building the site, and experiments like Table for Six phone conversations. Each edition also includes thoughtful replies to the previous week's prompt.</p><!--kg-card-begin: markdown--><p>Here are a few highlights if you’re just starting:</p>

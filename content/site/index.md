@@ -5,6 +5,7 @@ date: 2021-06-27T16:51:01Z
 draft: false
 type: "page"
 layout: "uncommon"
+url: /uncommon/site/
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://bb.place/content/images/2021/08/home-01.png" class="kg-image" alt loading="lazy" width="2000" height="2304" srcset="https://bb.place/content/images/size/w600/2021/08/home-01.png 600w, https://bb.place/content/images/size/w1000/2021/08/home-01.png 1000w, https://bb.place/content/images/size/w1600/2021/08/home-01.png 1600w, https://bb.place/content/images/size/w2400/2021/08/home-01.png 2400w" sizes="(min-width: 720px) 720px"><figcaption>Uncommon's homepage</figcaption></figure><p>Uncommon's online home was a trampoline, not a rabbit hole. The goal was for visits to be rewarding, but short. Members were greeted by a small stack of cards, such as an introduction to another member, prompt reply, favorite thing, and a writing prompt. The final card was a thank you for stopping by rather than an infinite scroll spinner. </p><p>The site also closed for 24 hours each week to encourage us to step away from our screens and find community in other ways.</p><p>There were other twists. We encouraged members to think differently about the standard profile bio by making it just three words. We shared our favorite things, but only ten. </p><!--kg-card-begin: html--><p>

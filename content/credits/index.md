@@ -5,6 +5,7 @@ date: 2021-06-27T16:51:46Z
 draft: false
 type: "page"
 layout: "uncommon"
+url: /uncommon/credits/
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://bb.place/content/images/2021/08/illustration-camping.png" class="kg-image" alt="Illustrated scene of people around a campfire" loading="lazy" width="1024" height="768" srcset="https://bb.place/content/images/size/w600/2021/08/illustration-camping.png 600w, https://bb.place/content/images/size/w1000/2021/08/illustration-camping.png 1000w, https://bb.place/content/images/2021/08/illustration-camping.png 1024w" sizes="(min-width: 720px) 720px"><figcaption>Art by BJ Heinley</figcaption></figure><p>My heart overflows with gratitude for the kind, supportive, talented people who brought Uncommon to life, but also made it what it was. It was a barn raising—people volunteered their time because they wanted a different kind of community.</p><p>It’s impossible for me to capture in words what these phenomenal people, and every person who joined, mean to me, but it’s a worthwhile endeavor.</p><!--kg-card-begin: html--><p><strong>Lori and Ben</strong><br/>

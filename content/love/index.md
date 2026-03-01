@@ -5,6 +5,7 @@ date: 2021-06-27T16:51:52Z
 draft: false
 type: "page"
 layout: "uncommon"
+url: /uncommon/love/
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://bb.place/content/images/2021/08/illustration-backyard.png" class="kg-image" alt="An illustrated scene of a backyard party" loading="lazy" width="1024" height="768" srcset="https://bb.place/content/images/size/w600/2021/08/illustration-backyard.png 600w, https://bb.place/content/images/size/w1000/2021/08/illustration-backyard.png 1000w, https://bb.place/content/images/2021/08/illustration-backyard.png 1024w" sizes="(min-width: 720px) 720px"><figcaption>Art by BJ Heinley</figcaption></figure><p>Each person who was part of Uncommon was essential to its story. I’m grateful to everyone over the years who’s shared what the community meant to them. Here are a few highlights.</p><p>If you’d like to share your thoughts, send them to uncommon at bb.place. </p><!--kg-card-begin: html--><blockquote>
