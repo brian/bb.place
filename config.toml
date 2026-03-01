@@ -29,9 +29,6 @@ enableRobotsTXT = true
   label = "Uncommon"
   url = "/uncommon/"
 [[params.navigation]]
-  label = "Kaleidoscope"
-  url = "/kaleidoscope/"
-[[params.navigation]]
   label = "On Product Strategy"
   url = "https://world.hey.com/bb"
 
