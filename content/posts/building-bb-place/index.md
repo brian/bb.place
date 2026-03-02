@@ -30,12 +30,12 @@ author_name: "Brian Bailey"
 </p><!--kg-card-end: html--><!--kg-card-begin: markdown--><p><strong>Layout</strong><br>
 Most themes today are designed for content marketing—images for every post, featured posts, read more links. It’s as if we’re all publications with six staff writers and an editorial calendar. I wanted something simpler: a calm, high-quality reading experience focused on the full content of each post with the most recent first.</p>
 <p><strong>Mini-site</strong><br>
-One of my goals for the site was to celebrate Uncommon in Common, an online community I started in 2012. I wanted to create a mini-site with its own navigation, multiple pages, and even <a href="https://bb.place/uncommon/story/dispatch/">a separate archive</a> of hundreds of posts. I’m really happy with <a href="https://bb.place/uncommon/">what we came up with</a>.</p>
+One of my goals for the site was to celebrate Uncommon in Common, an online community I started in 2012. I wanted to create a mini-site with its own navigation, multiple pages, and even <a href="/uncommon/story/dispatch/">a separate archive</a> of hundreds of posts. I’m really happy with <a href="/uncommon/">what we came up with</a>.</p>
 <p><strong>Flexibility</strong><br>
 With Ghost, you can use tags and a little code to customize what appears on the homepage, archive, and RSS feed. That made it easy to support a variety of content.</p>
 <p><strong>Related posts</strong><br>
-One of the fanciest things we built is a form of related posts. Inspired by Uncommon, I want to write about my <a href="https://bb.place/favorites/">favorite things</a>.</p>
-<p>But Uncommon taught me that a few paragraphs about a favorite often isn't enough. For instance, standup comedy is one of my favorite things. I plan to write an essay about that, but I’m sure there will be more. For instance, posts about specific comediens. Using internal tags, I can add favorites on the fly and publish related posts and they're automatically connected. You can see an example with <a href="https://bb.place/favorites/the-west-wing/">The West Wing</a>.</p>
+One of the fanciest things we built is a form of related posts. Inspired by Uncommon, I want to write about my <a href="/favorites/">favorite things</a>.</p>
+<p>But Uncommon taught me that a few paragraphs about a favorite often isn't enough. For instance, standup comedy is one of my favorite things. I plan to write an essay about that, but I’m sure there will be more. For instance, posts about specific comediens. Using internal tags, I can add favorites on the fly and publish related posts and they're automatically connected. You can see an example with <a href="/favorites/the-west-wing/">The West Wing</a>.</p>
 <p><strong>Sidenotes</strong><br>
 I wanted sidenotes from the moment I saw them <a href="https://ia.net/topics/newsite">on iA's site</a> and we were able to make it happen. We used <a href="https://ghost.org/changelog/content-snippets/">Ghost snippets</a> so I have quick access to the necessary HTML to add a sidenote. Of course, sidenotes become footnotes on smaller screens.</p>
 <p><strong>Font</strong><br>

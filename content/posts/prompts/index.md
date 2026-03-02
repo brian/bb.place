@@ -15,7 +15,7 @@ author_name: "Brian Bailey"
 <p>Questions were the heart of Uncommon. Each email dispatch included a prompt and the next edition the responses. The magic was found in the honesty and thoughtfulness of the replies.</p><!--kg-card-begin: html--><blockquote>
     The prompt made me realize: I think the reason I don't write more is that I don't feel like anyone is asking. Maybe that's the secret to this whole thing. It's over-sharing when we never asked for it in the first place.
     <div class="cite">—@mattt</div>
-</blockquote><!--kg-card-end: html--><p><a href="https://bb.place/favorites/questions/">Questions are one of my favorite things</a>, so here is the treasure trove of community prompts, ready for your next dinner party, campfire conversation, or long walk with a friend. If you'd like to incorporate these into an app or community project, drop me a note at uncommon@bb.place.</p><!--kg-card-begin: markdown--><h2 id="uncommon-prompts">Uncommon Prompts</h2>
+</blockquote><!--kg-card-end: html--><p><a href="/favorites/questions/">Questions are one of my favorite things</a>, so here is the treasure trove of community prompts, ready for your next dinner party, campfire conversation, or long walk with a friend. If you'd like to incorporate these into an app or community project, drop me a note at uncommon@bb.place.</p><!--kg-card-begin: markdown--><h2 id="uncommon-prompts">Uncommon Prompts</h2>
 <p>When was the last time you couldn’t stop smiling?<br>
 What question started your favorite dinner table conversation?<br>
 Do you have a favorite ice cream?<br>
