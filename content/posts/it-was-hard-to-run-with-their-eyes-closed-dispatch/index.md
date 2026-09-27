@@ -1,6 +1,9 @@
 ---
 title: "It was hard to run with their eyes closed"
 slug: "it-was-hard-to-run-with-their-eyes-closed-dispatch"
+url: /uncommon/story/it-was-hard-to-run-with-their-eyes-closed-dispatch/
+aliases:
+  - /it-was-hard-to-run-with-their-eyes-closed-dispatch/
 date: 2012-12-18T12:00:00Z
 draft: false
 type: "post"

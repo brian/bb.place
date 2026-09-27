@@ -1,6 +1,9 @@
 ---
 title: "The universe is what we make of it"
 slug: "the-universe-is-what-we-make-of-it"
+url: /uncommon/story/the-universe-is-what-we-make-of-it/
+aliases:
+  - /the-universe-is-what-we-make-of-it/
 date: 2016-12-31T12:00:00Z
 draft: false
 type: "post"

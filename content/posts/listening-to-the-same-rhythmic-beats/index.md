@@ -1,6 +1,9 @@
 ---
 title: "Listening to the same rhythmic beats"
 slug: "listening-to-the-same-rhythmic-beats"
+url: /uncommon/story/listening-to-the-same-rhythmic-beats/
+aliases:
+  - /listening-to-the-same-rhythmic-beats/
 date: 2014-09-09T11:00:00Z
 draft: false
 type: "post"

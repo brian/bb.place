@@ -1,6 +1,9 @@
 ---
 title: "The gift of an introduction"
 slug: "the-gift-of-an-introduction"
+url: /uncommon/story/the-gift-of-an-introduction/
+aliases:
+  - /the-gift-of-an-introduction/
 date: 2016-11-23T12:00:00Z
 draft: false
 type: "post"

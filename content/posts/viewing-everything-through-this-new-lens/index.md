@@ -1,6 +1,9 @@
 ---
 title: "Viewing everything through this new lens"
 slug: "viewing-everything-through-this-new-lens"
+url: /uncommon/story/viewing-everything-through-this-new-lens/
+aliases:
+  - /viewing-everything-through-this-new-lens/
 date: 2013-07-23T11:00:00Z
 draft: false
 type: "post"

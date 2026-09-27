@@ -1,6 +1,9 @@
 ---
 title: "To draw outside the lines"
 slug: "to-draw-outside-the-lines"
+url: /uncommon/story/to-draw-outside-the-lines/
+aliases:
+  - /to-draw-outside-the-lines/
 date: 2014-07-15T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "The air of belonging"
 slug: "the-air-of-belonging"
+url: /uncommon/story/the-air-of-belonging/
+aliases:
+  - /the-air-of-belonging/
 date: 2013-11-19T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "The space between"
 slug: "the-space-between"
+url: /uncommon/story/the-space-between/
+aliases:
+  - /the-space-between/
 date: 2017-06-26T11:00:00Z
 draft: false
 type: "post"

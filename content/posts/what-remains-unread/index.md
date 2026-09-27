@@ -1,6 +1,9 @@
 ---
 title: "What remains unread"
 slug: "what-remains-unread"
+url: /uncommon/story/what-remains-unread/
+aliases:
+  - /what-remains-unread/
 date: 2016-09-27T11:00:00Z
 draft: false
 type: "post"

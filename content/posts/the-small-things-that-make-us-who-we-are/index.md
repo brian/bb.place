@@ -1,6 +1,9 @@
 ---
 title: "The small things that make us who we are"
 slug: "the-small-things-that-make-us-who-we-are"
+url: /uncommon/story/the-small-things-that-make-us-who-we-are/
+aliases:
+  - /the-small-things-that-make-us-who-we-are/
 date: 2012-09-11T05:00:00Z
 draft: false
 type: "post"

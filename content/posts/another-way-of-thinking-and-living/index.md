@@ -1,6 +1,9 @@
 ---
 title: "Another way of thinking and living"
 slug: "another-way-of-thinking-and-living"
+url: /uncommon/story/another-way-of-thinking-and-living/
+aliases:
+  - /another-way-of-thinking-and-living/
 date: 2014-11-04T12:00:00Z
 draft: false
 type: "post"

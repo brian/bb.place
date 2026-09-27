@@ -1,6 +1,9 @@
 ---
 title: "Where the known and unknown meet"
 slug: "where-the-known-and-unknown-meet"
+url: /uncommon/story/where-the-known-and-unknown-meet/
+aliases:
+  - /where-the-known-and-unknown-meet/
 date: 2014-05-20T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Even the shark from \"Jaws\""
 slug: "even-the-shark-from-jaws-dispatch"
+url: /uncommon/story/even-the-shark-from-jaws-dispatch/
+aliases:
+  - /even-the-shark-from-jaws-dispatch/
 date: 2013-06-11T11:00:00Z
 draft: false
 type: "post"

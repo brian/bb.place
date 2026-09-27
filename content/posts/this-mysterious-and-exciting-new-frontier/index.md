@@ -1,6 +1,9 @@
 ---
 title: "This mysterious and exciting new frontier"
 slug: "this-mysterious-and-exciting-new-frontier"
+url: /uncommon/story/this-mysterious-and-exciting-new-frontier/
+aliases:
+  - /this-mysterious-and-exciting-new-frontier/
 date: 2013-05-21T11:00:00Z
 draft: false
 type: "post"

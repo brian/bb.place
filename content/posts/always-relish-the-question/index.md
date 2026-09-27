@@ -1,6 +1,9 @@
 ---
 title: "Always relish the question"
 slug: "always-relish-the-question"
+url: /uncommon/story/always-relish-the-question/
+aliases:
+  - /always-relish-the-question/
 date: 2015-04-21T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Doubt need not impede action"
 slug: "doubt-need-not-impede-action"
+url: /uncommon/story/doubt-need-not-impede-action/
+aliases:
+  - /doubt-need-not-impede-action/
 date: 2013-02-25T12:00:00Z
 draft: false
 type: "post"

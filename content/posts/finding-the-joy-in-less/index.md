@@ -1,6 +1,9 @@
 ---
 title: "Finding the joy in less"
 slug: "finding-the-joy-in-less"
+url: /uncommon/story/finding-the-joy-in-less/
+aliases:
+  - /finding-the-joy-in-less/
 date: 2013-12-31T12:00:00Z
 draft: false
 type: "post"

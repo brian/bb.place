@@ -1,6 +1,9 @@
 ---
 title: "The great panorama that emerges"
 slug: "the-great-panorama-that-emerges"
+url: /uncommon/story/the-great-panorama-that-emerges/
+aliases:
+  - /the-great-panorama-that-emerges/
 date: 2013-12-17T12:00:00Z
 draft: false
 type: "post"

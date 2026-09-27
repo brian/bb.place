@@ -1,6 +1,9 @@
 ---
 title: "The time we spend trying to understand each other"
 slug: "the-time-we-spend-trying-to-understand-each-other-is-never-wasted"
+url: /uncommon/story/the-time-we-spend-trying-to-understand-each-other-is-never-wasted/
+aliases:
+  - /the-time-we-spend-trying-to-understand-each-other-is-never-wasted/
 date: 2012-08-21T05:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Favorite Things"
 slug: "favorite-things"
+url: /uncommon/story/favorite-things/
+aliases:
+  - /favorite-things/
 date: 2021-09-01T23:15:59Z
 draft: false
 type: "post"

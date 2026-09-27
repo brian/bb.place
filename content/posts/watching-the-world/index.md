@@ -1,6 +1,9 @@
 ---
 title: "Watching the world"
 slug: "watching-the-world"
+url: /uncommon/story/watching-the-world/
+aliases:
+  - /watching-the-world/
 date: 2014-06-03T11:00:00Z
 draft: false
 type: "post"

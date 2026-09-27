@@ -1,6 +1,9 @@
 ---
 title: "The purest form of escapism"
 slug: "the-purest-form-of-escapism"
+url: /uncommon/story/the-purest-form-of-escapism/
+aliases:
+  - /the-purest-form-of-escapism/
 date: 2015-06-02T11:00:00Z
 draft: false
 type: "post"

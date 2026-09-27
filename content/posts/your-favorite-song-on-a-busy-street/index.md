@@ -1,6 +1,9 @@
 ---
 title: "Your favorite song on a busy street"
 slug: "your-favorite-song-on-a-busy-street"
+url: /uncommon/story/your-favorite-song-on-a-busy-street/
+aliases:
+  - /your-favorite-song-on-a-busy-street/
 date: 2013-10-08T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Something that is new and familiar all at once"
 slug: "something-that-is-new-and-familiar-all-at-once"
+url: /uncommon/story/something-that-is-new-and-familiar-all-at-once/
+aliases:
+  - /something-that-is-new-and-familiar-all-at-once/
 date: 2012-07-24T05:00:00Z
 draft: false
 type: "post"

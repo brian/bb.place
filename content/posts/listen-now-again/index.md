@@ -1,6 +1,9 @@
 ---
 title: "Listen now again"
 slug: "listen-now-again"
+url: /uncommon/story/listen-now-again/
+aliases:
+  - /listen-now-again/
 date: 2013-02-19T12:00:00Z
 draft: false
 type: "post"

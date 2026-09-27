@@ -1,6 +1,9 @@
 ---
 title: "Like the best kind of love"
 slug: "like-the-best-kind-of-love"
+url: /uncommon/story/like-the-best-kind-of-love/
+aliases:
+  - /like-the-best-kind-of-love/
 date: 2015-02-24T12:00:00Z
 draft: false
 type: "post"

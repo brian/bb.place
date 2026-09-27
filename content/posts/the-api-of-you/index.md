@@ -1,6 +1,9 @@
 ---
 title: "The API of You"
 slug: "the-api-of-you"
+url: /uncommon/story/the-api-of-you/
+aliases:
+  - /the-api-of-you/
 date: 2012-12-14T06:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Hints and foreshadowings"
 slug: "hints-and-foreshadowings"
+url: /uncommon/story/hints-and-foreshadowings/
+aliases:
+  - /hints-and-foreshadowings/
 date: 2015-06-16T11:00:00Z
 draft: false
 type: "post"

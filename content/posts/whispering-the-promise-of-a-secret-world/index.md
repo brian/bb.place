@@ -1,6 +1,9 @@
 ---
 title: "Whispering the promise of a secret world"
 slug: "whispering-the-promise-of-a-secret-world"
+url: /uncommon/story/whispering-the-promise-of-a-secret-world/
+aliases:
+  - /whispering-the-promise-of-a-secret-world/
 date: 2012-10-23T11:00:00Z
 draft: false
 type: "post"

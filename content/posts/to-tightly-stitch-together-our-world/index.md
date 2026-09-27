@@ -1,6 +1,9 @@
 ---
 title: "To tightly stitch together our world"
 slug: "to-tightly-stitch-together-our-world"
+url: /uncommon/story/to-tightly-stitch-together-our-world/
+aliases:
+  - /to-tightly-stitch-together-our-world/
 date: 2013-01-08T12:00:00Z
 draft: false
 type: "post"

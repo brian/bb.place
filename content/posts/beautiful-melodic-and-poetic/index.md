@@ -1,6 +1,9 @@
 ---
 title: "Beautiful, melodic, and poetic"
 slug: "beautiful-melodic-and-poetic"
+url: /uncommon/story/beautiful-melodic-and-poetic/
+aliases:
+  - /beautiful-melodic-and-poetic/
 date: 2013-02-12T12:00:00Z
 draft: false
 type: "post"

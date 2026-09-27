@@ -1,6 +1,9 @@
 ---
 title: "In silent, delicious bliss"
 slug: "in-silent-delicious-bliss"
+url: /uncommon/story/in-silent-delicious-bliss/
+aliases:
+  - /in-silent-delicious-bliss/
 date: 2014-06-10T11:00:00Z
 draft: false
 type: "post"

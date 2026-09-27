@@ -1,6 +1,9 @@
 ---
 title: "In search of inspiration, information, and connection"
 slug: "in-search-of-inspiration-information-and-connection"
+url: /uncommon/story/in-search-of-inspiration-information-and-connection/
+aliases:
+  - /in-search-of-inspiration-information-and-connection/
 date: 2012-09-25T11:00:00Z
 draft: false
 type: "post"

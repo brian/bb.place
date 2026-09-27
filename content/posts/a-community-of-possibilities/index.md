@@ -1,6 +1,9 @@
 ---
 title: "A community of possibilities"
 slug: "a-community-of-possibilities"
+url: /uncommon/story/a-community-of-possibilities/
+aliases:
+  - /a-community-of-possibilities/
 date: 2012-06-26T05:00:00Z
 draft: false
 type: "post"

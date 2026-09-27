@@ -1,6 +1,9 @@
 ---
 title: "No time of day more wondrous"
 slug: "no-time-of-day-more-wondrous"
+url: /uncommon/story/no-time-of-day-more-wondrous/
+aliases:
+  - /no-time-of-day-more-wondrous/
 date: 2014-04-15T11:00:00Z
 draft: false
 type: "post"

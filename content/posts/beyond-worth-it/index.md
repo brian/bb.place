@@ -1,6 +1,9 @@
 ---
 title: "Beyond worth it"
 slug: "beyond-worth-it"
+url: /uncommon/story/beyond-worth-it/
+aliases:
+  - /beyond-worth-it/
 date: 2015-07-14T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "The tension of familiarity and discovery"
 slug: "the-tension-of-familiarity-and-discovery"
+url: /uncommon/story/the-tension-of-familiarity-and-discovery/
+aliases:
+  - /the-tension-of-familiarity-and-discovery/
 date: 2012-07-17T05:00:00Z
 draft: false
 type: "post"

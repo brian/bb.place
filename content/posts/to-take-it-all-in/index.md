@@ -1,6 +1,9 @@
 ---
 title: "To take it all in"
 slug: "to-take-it-all-in"
+url: /uncommon/story/to-take-it-all-in/
+aliases:
+  - /to-take-it-all-in/
 date: 2013-03-12T12:00:00Z
 draft: false
 type: "post"

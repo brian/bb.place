@@ -1,6 +1,9 @@
 ---
 title: "Alive, abundant, established"
 slug: "alive-abundant-established"
+url: /uncommon/story/alive-abundant-established/
+aliases:
+  - /alive-abundant-established/
 date: 2013-02-05T12:00:00Z
 draft: false
 type: "post"

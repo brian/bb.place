@@ -1,6 +1,9 @@
 ---
 title: "Honoring the things we love"
 slug: "honoring-the-things-we-love"
+url: /uncommon/story/honoring-the-things-we-love/
+aliases:
+  - /honoring-the-things-we-love/
 date: 2012-07-03T05:00:00Z
 draft: false
 type: "post"

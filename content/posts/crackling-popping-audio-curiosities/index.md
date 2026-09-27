@@ -1,6 +1,9 @@
 ---
 title: "Crackling, popping audio curiosities"
 slug: "crackling-popping-audio-curiosities"
+url: /uncommon/story/crackling-popping-audio-curiosities/
+aliases:
+  - /crackling-popping-audio-curiosities/
 date: 2012-11-20T12:00:00Z
 draft: false
 type: "post"

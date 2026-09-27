@@ -1,6 +1,9 @@
 ---
 title: "Complex and contradictory"
 slug: "complex-and-contradictory"
+url: /uncommon/story/complex-and-contradictory/
+aliases:
+  - /complex-and-contradictory/
 date: 2015-02-10T12:00:00Z
 draft: false
 type: "post"

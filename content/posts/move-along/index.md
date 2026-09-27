@@ -1,6 +1,9 @@
 ---
 title: "Move along"
 slug: "move-along"
+url: /uncommon/story/move-along/
+aliases:
+  - /move-along/
 date: 2016-08-16T11:00:00Z
 draft: false
 type: "post"

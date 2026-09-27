@@ -1,6 +1,9 @@
 ---
 title: "The fruits of folks helping each other"
 slug: "the-fruits-of-folks-helping-each-other"
+url: /uncommon/story/the-fruits-of-folks-helping-each-other/
+aliases:
+  - /the-fruits-of-folks-helping-each-other/
 date: 2013-11-28T12:00:00Z
 draft: false
 type: "post"

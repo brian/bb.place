@@ -1,6 +1,9 @@
 ---
 title: "Mix in the swirling mysteries"
 slug: "mix-in-the-swirling-mysteries"
+url: /uncommon/story/mix-in-the-swirling-mysteries/
+aliases:
+  - /mix-in-the-swirling-mysteries/
 date: 2014-12-16T12:00:00Z
 draft: false
 type: "post"

@@ -94,6 +94,12 @@ def build(export_path: pathlib.Path):
             "---",
             f"title: \"{yaml_escape(title)}\"",
             f"slug: \"{slug}\"",
+        ]
+
+        if slug == "dispatch" or primary_tag == "dispatch":
+            fm_lines.extend([f"url: /uncommon/story/{slug}/", "aliases:", f"  - /{slug}/"])
+
+        fm_lines += [
             f"date: {dt.strftime('%Y-%m-%dT%H:%M:%SZ')}",
             "draft: false",
             f"type: \"{'post' if type_name == 'post' else 'page'}\"",

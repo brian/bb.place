@@ -1,6 +1,9 @@
 ---
 title: "Venturing out in a new and unknown place"
 slug: "venturing-out-in-a-new-and-unknown-place"
+url: /uncommon/story/venturing-out-in-a-new-and-unknown-place/
+aliases:
+  - /venturing-out-in-a-new-and-unknown-place/
 date: 2014-01-21T12:00:00Z
 draft: false
 type: "post"

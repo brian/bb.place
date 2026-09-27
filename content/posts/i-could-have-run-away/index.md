@@ -1,6 +1,9 @@
 ---
 title: "I could have run away"
 slug: "i-could-have-run-away"
+url: /uncommon/story/i-could-have-run-away/
+aliases:
+  - /i-could-have-run-away/
 date: 2014-03-11T12:00:00Z
 draft: false
 type: "post"

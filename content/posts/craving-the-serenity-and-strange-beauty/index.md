@@ -1,6 +1,9 @@
 ---
 title: "Craving the serenity and strange beauty"
 slug: "craving-the-serenity-and-strange-beauty"
+url: /uncommon/story/craving-the-serenity-and-strange-beauty/
+aliases:
+  - /craving-the-serenity-and-strange-beauty/
 date: 2013-04-30T11:00:00Z
 draft: false
 type: "post"

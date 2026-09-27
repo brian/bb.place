@@ -1,6 +1,9 @@
 ---
 title: "Beautiful, philosophical, and poignant"
 slug: "beautiful-philosophical-and-poignant"
+url: /uncommon/story/beautiful-philosophical-and-poignant/
+aliases:
+  - /beautiful-philosophical-and-poignant/
 date: 2014-08-19T11:00:00Z
 draft: false
 type: "post"

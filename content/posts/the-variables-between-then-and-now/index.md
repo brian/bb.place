@@ -1,6 +1,9 @@
 ---
 title: "The variables between then and now"
 slug: "the-variables-between-then-and-now"
+url: /uncommon/story/the-variables-between-then-and-now/
+aliases:
+  - /the-variables-between-then-and-now/
 date: 2013-03-05T12:00:00Z
 draft: false
 type: "post"

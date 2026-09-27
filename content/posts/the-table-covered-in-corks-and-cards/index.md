@@ -1,6 +1,9 @@
 ---
 title: "The table covered in corks and cards"
 slug: "the-table-covered-in-corks-and-cards"
+url: /uncommon/story/the-table-covered-in-corks-and-cards/
+aliases:
+  - /the-table-covered-in-corks-and-cards/
 date: 2013-07-30T11:00:00Z
 draft: false
 type: "post"

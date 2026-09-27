@@ -1,6 +1,9 @@
 ---
 title: "My impulsive, unpredictable heroine"
 slug: "my-impulsive-unpredictable-heroine"
+url: /uncommon/story/my-impulsive-unpredictable-heroine/
+aliases:
+  - /my-impulsive-unpredictable-heroine/
 date: 2014-04-08T11:00:00Z
 draft: false
 type: "post"

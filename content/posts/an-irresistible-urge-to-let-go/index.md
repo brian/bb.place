@@ -1,6 +1,9 @@
 ---
 title: "An irresistible urge to let go"
 slug: "an-irresistible-urge-to-let-go"
+url: /uncommon/story/an-irresistible-urge-to-let-go/
+aliases:
+  - /an-irresistible-urge-to-let-go/
 date: 2013-08-13T11:00:00Z
 draft: false
 type: "post"

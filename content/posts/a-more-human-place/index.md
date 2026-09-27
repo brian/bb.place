@@ -1,6 +1,9 @@
 ---
 title: "A more human place"
 slug: "a-more-human-place"
+url: /uncommon/story/a-more-human-place/
+aliases:
+  - /a-more-human-place/
 date: 2015-01-13T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Drunk in love"
 slug: "drunk-in-love"
+url: /uncommon/story/drunk-in-love/
+aliases:
+  - /drunk-in-love/
 date: 2013-08-06T11:00:00Z
 draft: false
 type: "post"

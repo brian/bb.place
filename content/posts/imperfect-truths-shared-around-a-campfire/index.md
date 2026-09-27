@@ -1,6 +1,9 @@
 ---
 title: "Imperfect truths shared around a campfire"
 slug: "imperfect-truths-shared-around-a-campfire"
+url: /uncommon/story/imperfect-truths-shared-around-a-campfire/
+aliases:
+  - /imperfect-truths-shared-around-a-campfire/
 date: 2013-04-02T11:00:00Z
 draft: false
 type: "post"

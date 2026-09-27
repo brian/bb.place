@@ -1,6 +1,9 @@
 ---
 title: "It's beautiful to sit back and watch unfold"
 slug: "its-beautiful-to-sit-back-and-watch-unfold"
+url: /uncommon/story/its-beautiful-to-sit-back-and-watch-unfold/
+aliases:
+  - /its-beautiful-to-sit-back-and-watch-unfold/
 date: 2012-07-10T05:00:00Z
 draft: false
 type: "post"

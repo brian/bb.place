@@ -1,6 +1,9 @@
 ---
 title: "The Beauty of Imperfection"
 slug: "the-beauty-of-imperfection"
+url: /uncommon/story/the-beauty-of-imperfection/
+aliases:
+  - /the-beauty-of-imperfection/
 date: 2015-03-01T18:00:00Z
 draft: false
 type: "post"

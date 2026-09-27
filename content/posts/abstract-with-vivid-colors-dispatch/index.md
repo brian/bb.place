@@ -1,6 +1,9 @@
 ---
 title: "Abstract with vivid colors"
 slug: "abstract-with-vivid-colors-dispatch"
+url: /uncommon/story/abstract-with-vivid-colors-dispatch/
+aliases:
+  - /abstract-with-vivid-colors-dispatch/
 date: 2017-12-31T12:00:00Z
 draft: false
 type: "post"

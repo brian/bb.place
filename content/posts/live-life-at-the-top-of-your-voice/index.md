@@ -1,6 +1,9 @@
 ---
 title: "Live life at the top of your voice"
 slug: "live-life-at-the-top-of-your-voice"
+url: /uncommon/story/live-life-at-the-top-of-your-voice/
+aliases:
+  - /live-life-at-the-top-of-your-voice/
 date: 2012-10-16T11:00:00Z
 draft: false
 type: "post"

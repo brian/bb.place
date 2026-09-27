@@ -1,6 +1,9 @@
 ---
 title: "Return to the beginning of wonder"
 slug: "return-to-the-beginning-of-wonder"
+url: /uncommon/story/return-to-the-beginning-of-wonder/
+aliases:
+  - /return-to-the-beginning-of-wonder/
 date: 2013-05-07T11:00:00Z
 draft: false
 type: "post"

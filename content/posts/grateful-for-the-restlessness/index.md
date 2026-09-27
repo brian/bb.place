@@ -1,6 +1,9 @@
 ---
 title: "Grateful for the restlessness"
 slug: "grateful-for-the-restlessness"
+url: /uncommon/story/grateful-for-the-restlessness/
+aliases:
+  - /grateful-for-the-restlessness/
 date: 2014-07-22T11:00:00Z
 draft: false
 type: "post"
