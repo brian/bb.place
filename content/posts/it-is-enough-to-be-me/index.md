@@ -1,6 +1,9 @@
 ---
 title: "It is enough to be me"
 slug: "it-is-enough-to-be-me"
+url: /uncommon/story/it-is-enough-to-be-me/
+aliases:
+  - /it-is-enough-to-be-me/
 date: 2016-10-11T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Invested in being present"
 slug: "invested-in-being-present"
+url: /uncommon/story/invested-in-being-present/
+aliases:
+  - /invested-in-being-present/
 date: 2016-02-02T12:00:00Z
 draft: false
 type: "post"

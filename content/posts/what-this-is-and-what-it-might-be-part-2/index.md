@@ -1,6 +1,9 @@
 ---
 title: "What this is and what it might be, Part 2"
 slug: "what-this-is-and-what-it-might-be-part-2"
+url: /uncommon/story/what-this-is-and-what-it-might-be-part-2/
+aliases:
+  - /what-this-is-and-what-it-might-be-part-2/
 date: 2012-10-09T11:00:00Z
 draft: false
 type: "post"

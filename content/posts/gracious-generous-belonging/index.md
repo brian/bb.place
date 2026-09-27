@@ -1,6 +1,9 @@
 ---
 title: "Gracious, generous, belonging"
 slug: "gracious-generous-belonging"
+url: /uncommon/story/gracious-generous-belonging/
+aliases:
+  - /gracious-generous-belonging/
 date: 2013-11-12T12:00:00Z
 draft: false
 type: "post"

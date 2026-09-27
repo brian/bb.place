@@ -1,6 +1,9 @@
 ---
 title: "A year of favorites"
 slug: "favorites-of-the-year"
+url: /uncommon/story/favorites-of-the-year/
+aliases:
+  - /favorites-of-the-year/
 date: 2015-12-22T12:00:00Z
 draft: false
 type: "post"

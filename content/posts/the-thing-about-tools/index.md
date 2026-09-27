@@ -1,6 +1,9 @@
 ---
 title: "The thing about tools"
 slug: "the-thing-about-tools"
+url: /uncommon/story/the-thing-about-tools/
+aliases:
+  - /the-thing-about-tools/
 date: 2017-05-17T11:00:00Z
 draft: false
 type: "post"

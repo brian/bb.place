@@ -1,6 +1,9 @@
 ---
 title: "Lingering is encouraged"
 slug: "lingering-is-encouraged"
+url: /uncommon/story/lingering-is-encouraged/
+aliases:
+  - /lingering-is-encouraged/
 date: 2014-07-01T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "To find the colors again"
 slug: "to-find-the-colors-again"
+url: /uncommon/story/to-find-the-colors-again/
+aliases:
+  - /to-find-the-colors-again/
 date: 2013-05-14T11:00:00Z
 draft: false
 type: "post"

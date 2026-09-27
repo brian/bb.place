@@ -1,6 +1,9 @@
 ---
 title: "Thrown together with a bunch of strangers"
 slug: "thrown-together-with-a-bunch-of-strangers"
+url: /uncommon/story/thrown-together-with-a-bunch-of-strangers/
+aliases:
+  - /thrown-together-with-a-bunch-of-strangers/
 date: 2014-10-21T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Ripples of stories shared"
 slug: "ripples-of-stories-shared"
+url: /uncommon/story/ripples-of-stories-shared/
+aliases:
+  - /ripples-of-stories-shared/
 date: 2016-05-24T11:00:00Z
 draft: false
 type: "post"

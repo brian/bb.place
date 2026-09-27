@@ -1,6 +1,9 @@
 ---
 title: "Always with an eye toward the company of others"
 slug: "always-with-an-eye-toward-the-company-of-others"
+url: /uncommon/story/always-with-an-eye-toward-the-company-of-others/
+aliases:
+  - /always-with-an-eye-toward-the-company-of-others/
 date: 2013-01-22T12:00:00Z
 draft: false
 type: "post"

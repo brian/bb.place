@@ -1,6 +1,9 @@
 ---
 title: "Beautiful melodious compositions"
 slug: "beautiful-melodious-compositions"
+url: /uncommon/story/beautiful-melodious-compositions/
+aliases:
+  - /beautiful-melodious-compositions/
 date: 2015-01-27T12:00:00Z
 draft: false
 type: "post"

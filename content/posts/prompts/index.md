@@ -1,6 +1,9 @@
 ---
 title: "Prompts"
 slug: "prompts"
+url: /uncommon/story/prompts/
+aliases:
+  - /prompts/
 date: 2021-09-01T23:35:10Z
 draft: false
 type: "post"

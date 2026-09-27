@@ -1,6 +1,9 @@
 ---
 title: "Nightwrite"
 slug: "nightwrite-2"
+url: /uncommon/story/nightwrite-2/
+aliases:
+  - /nightwrite-2/
 date: 2015-05-05T11:00:00Z
 draft: false
 type: "post"

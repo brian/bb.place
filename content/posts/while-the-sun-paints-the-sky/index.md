@@ -1,6 +1,9 @@
 ---
 title: "While the sun paints the sky"
 slug: "while-the-sun-paints-the-sky"
+url: /uncommon/story/while-the-sun-paints-the-sky/
+aliases:
+  - /while-the-sun-paints-the-sky/
 date: 2016-03-29T11:00:00Z
 draft: false
 type: "post"

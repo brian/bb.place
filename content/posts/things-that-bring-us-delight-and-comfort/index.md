@@ -1,6 +1,9 @@
 ---
 title: "Things that bring us delight and comfort"
 slug: "things-that-bring-us-delight-and-comfort"
+url: /uncommon/story/things-that-bring-us-delight-and-comfort/
+aliases:
+  - /things-that-bring-us-delight-and-comfort/
 date: 2012-11-27T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "It has always been there"
 slug: "it-has-always-been-there"
+url: /uncommon/story/it-has-always-been-there/
+aliases:
+  - /it-has-always-been-there/
 date: 2014-12-02T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Somewhere in the space between you and your subject"
 slug: "somewhere-in-the-space-between-you-and-your-subject"
+url: /uncommon/story/somewhere-in-the-space-between-you-and-your-subject/
+aliases:
+  - /somewhere-in-the-space-between-you-and-your-subject/
 date: 2013-10-15T11:00:00Z
 draft: false
 type: "post"

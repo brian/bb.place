@@ -1,6 +1,9 @@
 ---
 title: "Under the fading sun"
 slug: "under-the-fading-sun"
+url: /uncommon/story/under-the-fading-sun/
+aliases:
+  - /under-the-fading-sun/
 date: 2015-10-13T11:00:00Z
 draft: false
 type: "post"

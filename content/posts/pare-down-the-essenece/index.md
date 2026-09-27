@@ -1,6 +1,9 @@
 ---
 title: "Pare down the essence"
 slug: "pare-down-the-essenece"
+url: /uncommon/story/pare-down-the-essenece/
+aliases:
+  - /pare-down-the-essenece/
 date: 2015-08-25T11:00:00Z
 draft: false
 type: "post"

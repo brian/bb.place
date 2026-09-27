@@ -1,6 +1,9 @@
 ---
 title: "Surpassed expectations"
 slug: "surpassed-expectations"
+url: /uncommon/story/surpassed-expectations/
+aliases:
+  - /surpassed-expectations/
 date: 2016-03-01T12:00:00Z
 draft: false
 type: "post"

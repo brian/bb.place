@@ -1,6 +1,9 @@
 ---
 title: "Easy, interesting and gratifying"
 slug: "easy-interesting-and-gratifying"
+url: /uncommon/story/easy-interesting-and-gratifying/
+aliases:
+  - /easy-interesting-and-gratifying/
 date: 2013-09-03T11:00:00Z
 draft: false
 type: "post"

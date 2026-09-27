@@ -1,6 +1,9 @@
 ---
 title: "Interesting connections between dissimilar notions"
 slug: "interesting-connections-between-dissimilar-notions"
+url: /uncommon/story/interesting-connections-between-dissimilar-notions/
+aliases:
+  - /interesting-connections-between-dissimilar-notions/
 date: 2013-08-27T11:00:00Z
 draft: false
 type: "post"

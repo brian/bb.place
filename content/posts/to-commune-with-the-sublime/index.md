@@ -1,6 +1,9 @@
 ---
 title: "To commune with the sublime"
 slug: "to-commune-with-the-sublime"
+url: /uncommon/story/to-commune-with-the-sublime/
+aliases:
+  - /to-commune-with-the-sublime/
 date: 2014-12-30T12:00:00Z
 draft: false
 type: "post"

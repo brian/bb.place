@@ -1,6 +1,9 @@
 ---
 title: "Inspired by the art"
 slug: "inspired-by-the-art"
+url: /uncommon/story/inspired-by-the-art/
+aliases:
+  - /inspired-by-the-art/
 date: 2015-11-10T12:00:00Z
 draft: false
 type: "post"

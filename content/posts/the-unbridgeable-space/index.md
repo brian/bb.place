@@ -1,6 +1,9 @@
 ---
 title: "The unbridgeable space"
 slug: "the-unbridgeable-space"
+url: /uncommon/story/the-unbridgeable-space/
+aliases:
+  - /the-unbridgeable-space/
 date: 2016-11-16T12:00:00Z
 draft: false
 type: "post"

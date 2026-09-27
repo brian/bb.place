@@ -1,6 +1,9 @@
 ---
 title: "Memories swirl"
 slug: "memories-swirl"
+url: /uncommon/story/memories-swirl/
+aliases:
+  - /memories-swirl/
 date: 2012-09-04T05:00:00Z
 draft: false
 type: "post"

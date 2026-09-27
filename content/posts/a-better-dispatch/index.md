@@ -1,6 +1,9 @@
 ---
 title: "A better dispatch"
 slug: "a-better-dispatch"
+url: /uncommon/story/a-better-dispatch/
+aliases:
+  - /a-better-dispatch/
 date: 2013-05-28T05:00:00Z
 draft: false
 type: "post"

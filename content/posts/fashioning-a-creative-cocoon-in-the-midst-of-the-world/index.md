@@ -1,6 +1,9 @@
 ---
 title: "Fashioning a creative cocoon in the midst of the world"
 slug: "fashioning-a-creative-cocoon-in-the-midst-of-the-world"
+url: /uncommon/story/fashioning-a-creative-cocoon-in-the-midst-of-the-world/
+aliases:
+  - /fashioning-a-creative-cocoon-in-the-midst-of-the-world/
 date: 2013-01-01T12:00:00Z
 draft: false
 type: "post"

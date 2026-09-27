@@ -1,6 +1,9 @@
 ---
 title: "Celebrating four years"
 slug: "celebrating-four-years"
+url: /uncommon/story/celebrating-four-years/
+aliases:
+  - /celebrating-four-years/
 date: 2016-06-21T11:00:00Z
 draft: false
 type: "post"

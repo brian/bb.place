@@ -1,6 +1,9 @@
 ---
 title: "Participants were invited to add their gift"
 slug: "participants-were-invited-to-add-their-gift"
+url: /uncommon/story/participants-were-invited-to-add-their-gift/
+aliases:
+  - /participants-were-invited-to-add-their-gift/
 date: 2014-05-06T11:00:00Z
 draft: false
 type: "post"

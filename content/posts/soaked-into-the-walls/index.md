@@ -1,6 +1,9 @@
 ---
 title: "Soaked into the walls"
 slug: "soaked-into-the-walls"
+url: /uncommon/story/soaked-into-the-walls/
+aliases:
+  - /soaked-into-the-walls/
 date: 2014-06-17T11:00:00Z
 draft: false
 type: "post"

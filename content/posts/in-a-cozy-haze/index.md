@@ -1,6 +1,9 @@
 ---
 title: "In a cozy haze"
 slug: "in-a-cozy-haze"
+url: /uncommon/story/in-a-cozy-haze/
+aliases:
+  - /in-a-cozy-haze/
 date: 2016-05-11T11:00:00Z
 draft: false
 type: "post"

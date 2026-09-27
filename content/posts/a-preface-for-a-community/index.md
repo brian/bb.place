@@ -1,6 +1,9 @@
 ---
 title: "A Preface for a Community"
 slug: "a-preface-for-a-community"
+url: /uncommon/story/a-preface-for-a-community/
+aliases:
+  - /a-preface-for-a-community/
 date: 2012-12-14T10:00:00Z
 draft: false
 type: "post"

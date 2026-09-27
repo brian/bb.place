@@ -1,6 +1,9 @@
 ---
 title: "We always saved a swing for each other"
 slug: "we-always-saved-a-swing-for-each-other"
+url: /uncommon/story/we-always-saved-a-swing-for-each-other/
+aliases:
+  - /we-always-saved-a-swing-for-each-other/
 date: 2014-02-11T12:00:00Z
 draft: false
 type: "post"

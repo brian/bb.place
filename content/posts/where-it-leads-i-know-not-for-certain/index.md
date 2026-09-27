@@ -1,6 +1,9 @@
 ---
 title: "Where it leads I know not for certain"
 slug: "where-it-leads-i-know-not-for-certain"
+url: /uncommon/story/where-it-leads-i-know-not-for-certain/
+aliases:
+  - /where-it-leads-i-know-not-for-certain/
 date: 2012-12-04T12:00:00Z
 draft: false
 type: "post"

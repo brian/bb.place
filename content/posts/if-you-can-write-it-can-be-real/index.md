@@ -1,6 +1,9 @@
 ---
 title: "If you can write, it can be real"
 slug: "if-you-can-write-it-can-be-real"
+url: /uncommon/story/if-you-can-write-it-can-be-real/
+aliases:
+  - /if-you-can-write-it-can-be-real/
 date: 2014-04-01T11:00:00Z
 draft: false
 type: "post"

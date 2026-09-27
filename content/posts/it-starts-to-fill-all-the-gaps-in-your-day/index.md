@@ -1,6 +1,9 @@
 ---
 title: "It starts to fill all the gaps in your day"
 slug: "it-starts-to-fill-all-the-gaps-in-your-day"
+url: /uncommon/story/it-starts-to-fill-all-the-gaps-in-your-day/
+aliases:
+  - /it-starts-to-fill-all-the-gaps-in-your-day/
 date: 2012-08-14T05:00:00Z
 draft: false
 type: "post"

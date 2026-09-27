@@ -1,6 +1,9 @@
 ---
 title: "On the edge of a world"
 slug: "on-the-edge-of-a-world"
+url: /uncommon/story/on-the-edge-of-a-world/
+aliases:
+  - /on-the-edge-of-a-world/
 date: 2014-02-04T12:00:00Z
 draft: false
 type: "post"

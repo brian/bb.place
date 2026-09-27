@@ -1,6 +1,9 @@
 ---
 title: "Witty magical realism"
 slug: "witty-magical-realism"
+url: /uncommon/story/witty-magical-realism/
+aliases:
+  - /witty-magical-realism/
 date: 2016-09-13T11:00:00Z
 draft: false
 type: "post"

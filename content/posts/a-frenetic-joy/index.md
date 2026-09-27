@@ -1,6 +1,9 @@
 ---
 title: "A frenetic joy"
 slug: "a-frenetic-joy"
+url: /uncommon/story/a-frenetic-joy/
+aliases:
+  - /a-frenetic-joy/
 date: 2013-10-01T11:00:00Z
 draft: false
 type: "post"

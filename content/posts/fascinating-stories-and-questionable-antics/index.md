@@ -1,6 +1,9 @@
 ---
 title: "Fascinating stories and questionable antics"
 slug: "fascinating-stories-and-questionable-antics"
+url: /uncommon/story/fascinating-stories-and-questionable-antics/
+aliases:
+  - /fascinating-stories-and-questionable-antics/
 date: 2014-02-18T12:00:00Z
 draft: false
 type: "post"

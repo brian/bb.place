@@ -1,6 +1,9 @@
 ---
 title: "A lovely view of heaven"
 slug: "a-lovely-view-of-heaven"
+url: /uncommon/story/a-lovely-view-of-heaven/
+aliases:
+  - /a-lovely-view-of-heaven/
 date: 2015-03-24T12:00:00Z
 draft: false
 type: "post"

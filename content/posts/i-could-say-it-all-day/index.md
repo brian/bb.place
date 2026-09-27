@@ -1,6 +1,9 @@
 ---
 title: "I could say it all day"
 slug: "i-could-say-it-all-day"
+url: /uncommon/story/i-could-say-it-all-day/
+aliases:
+  - /i-could-say-it-all-day/
 date: 2014-09-16T11:00:00Z
 draft: false
 type: "post"

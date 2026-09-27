@@ -1,6 +1,9 @@
 ---
 title: "Artifacts that tie us together"
 slug: "artifacts-that-tie-us-together"
+url: /uncommon/story/artifacts-that-tie-us-together/
+aliases:
+  - /artifacts-that-tie-us-together/
 date: 2013-12-24T12:00:00Z
 draft: false
 type: "post"

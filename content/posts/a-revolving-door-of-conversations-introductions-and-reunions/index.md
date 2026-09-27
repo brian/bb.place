@@ -1,6 +1,9 @@
 ---
 title: "A revolving door of conversations, introductions, and reunions"
 slug: "a-revolving-door-of-conversations-introductions-and-reunions"
+url: /uncommon/story/a-revolving-door-of-conversations-introductions-and-reunions/
+aliases:
+  - /a-revolving-door-of-conversations-introductions-and-reunions/
 date: 2013-12-03T12:00:00Z
 draft: false
 type: "post"

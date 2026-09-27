@@ -1,6 +1,9 @@
 ---
 title: "A Big Dangerous Idea"
 slug: "a-big-dangerous-idea"
+url: /uncommon/story/a-big-dangerous-idea/
+aliases:
+  - /a-big-dangerous-idea/
 date: 2015-03-02T02:15:00Z
 draft: false
 type: "post"

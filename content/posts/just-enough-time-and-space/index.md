@@ -1,6 +1,9 @@
 ---
 title: "Just enough time and space"
 slug: "just-enough-time-and-space"
+url: /uncommon/story/just-enough-time-and-space/
+aliases:
+  - /just-enough-time-and-space/
 date: 2013-06-25T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "The table is the great equalizer"
 slug: "the-table-is-the-great-equalizer"
+url: /uncommon/story/the-table-is-the-great-equalizer/
+aliases:
+  - /the-table-is-the-great-equalizer/
 date: 2012-11-13T12:00:00Z
 draft: false
 type: "post"

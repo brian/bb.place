@@ -1,6 +1,9 @@
 ---
 title: "Striving to live a life that matters"
 slug: "striving-to-live-a-life-that-matters"
+url: /uncommon/story/striving-to-live-a-life-that-matters/
+aliases:
+  - /striving-to-live-a-life-that-matters/
 date: 2012-10-30T12:00:00Z
 draft: false
 type: "post"

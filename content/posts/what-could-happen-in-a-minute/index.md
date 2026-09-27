@@ -1,6 +1,9 @@
 ---
 title: "What could happen in a minute?"
 slug: "what-could-happen-in-a-minute"
+url: /uncommon/story/what-could-happen-in-a-minute/
+aliases:
+  - /what-could-happen-in-a-minute/
 date: 2013-12-10T12:00:00Z
 draft: false
 type: "post"

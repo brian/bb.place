@@ -1,6 +1,9 @@
 ---
 title: "Taking care of each other along the way"
 slug: "taking-care-of-each-other-along-the-way"
+url: /uncommon/story/taking-care-of-each-other-along-the-way/
+aliases:
+  - /taking-care-of-each-other-along-the-way/
 date: 2015-08-11T11:00:00Z
 draft: false
 type: "post"

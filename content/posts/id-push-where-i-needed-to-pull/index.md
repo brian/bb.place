@@ -1,6 +1,9 @@
 ---
 title: "I'd push where I needed to pull"
 slug: "id-push-where-i-needed-to-pull"
+url: /uncommon/story/id-push-where-i-needed-to-pull/
+aliases:
+  - /id-push-where-i-needed-to-pull/
 date: 2014-11-18T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "It's not lost on me to this day"
 slug: "its-not-lost-on-me-to-this-day"
+url: /uncommon/story/its-not-lost-on-me-to-this-day/
+aliases:
+  - /its-not-lost-on-me-to-this-day/
 date: 2013-07-09T11:00:00Z
 draft: false
 type: "post"

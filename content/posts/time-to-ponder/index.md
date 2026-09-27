@@ -1,6 +1,9 @@
 ---
 title: "Time to ponder"
 slug: "time-to-ponder"
+url: /uncommon/story/time-to-ponder/
+aliases:
+  - /time-to-ponder/
 date: 2016-06-07T11:00:00Z
 draft: false
 type: "post"

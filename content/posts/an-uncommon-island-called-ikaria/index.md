@@ -1,6 +1,9 @@
 ---
 title: "An uncommon island called Ikaria"
 slug: "an-uncommon-island-called-ikaria"
+url: /uncommon/story/an-uncommon-island-called-ikaria/
+aliases:
+  - /an-uncommon-island-called-ikaria/
 date: 2012-11-06T12:00:00Z
 draft: false
 type: "post"

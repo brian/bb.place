@@ -1,6 +1,9 @@
 ---
 title: "We crave the things that are not yet"
 slug: "we-crave-the-things-that-are-not-yet"
+url: /uncommon/story/we-crave-the-things-that-are-not-yet/
+aliases:
+  - /we-crave-the-things-that-are-not-yet/
 date: 2013-07-16T11:00:00Z
 draft: false
 type: "post"

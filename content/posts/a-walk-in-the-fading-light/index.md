@@ -1,6 +1,9 @@
 ---
 title: "A walk in the fading light"
 slug: "a-walk-in-the-fading-light"
+url: /uncommon/story/a-walk-in-the-fading-light/
+aliases:
+  - /a-walk-in-the-fading-light/
 date: 2016-04-27T11:00:00Z
 draft: false
 type: "post"

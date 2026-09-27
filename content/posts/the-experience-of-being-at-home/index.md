@@ -1,6 +1,9 @@
 ---
 title: "The experience of being at home"
 slug: "the-experience-of-being-at-home"
+url: /uncommon/story/the-experience-of-being-at-home/
+aliases:
+  - /the-experience-of-being-at-home/
 date: 2012-07-31T05:00:00Z
 draft: false
 type: "post"

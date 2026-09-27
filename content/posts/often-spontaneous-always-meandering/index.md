@@ -1,6 +1,9 @@
 ---
 title: "Often spontaneous, always meandering"
 slug: "often-spontaneous-always-meandering"
+url: /uncommon/story/often-spontaneous-always-meandering/
+aliases:
+  - /often-spontaneous-always-meandering/
 date: 2015-11-24T12:00:00Z
 draft: false
 type: "post"

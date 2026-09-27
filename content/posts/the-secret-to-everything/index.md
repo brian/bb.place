@@ -1,6 +1,9 @@
 ---
 title: "The secret to everything"
 slug: "the-secret-to-everything"
+url: /uncommon/story/the-secret-to-everything/
+aliases:
+  - /the-secret-to-everything/
 date: 2016-07-19T11:00:00Z
 draft: false
 type: "post"

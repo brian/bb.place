@@ -1,6 +1,9 @@
 ---
 title: "Worthy of remembering"
 slug: "worthy-of-remembering"
+url: /uncommon/story/worthy-of-remembering/
+aliases:
+  - /worthy-of-remembering/
 date: 2014-06-24T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "A neighborhood, not a network"
 slug: "a-neighborhood-not-a-network"
+url: /uncommon/story/a-neighborhood-not-a-network/
+aliases:
+  - /a-neighborhood-not-a-network/
 date: 2016-04-12T11:00:00Z
 draft: false
 type: "post"

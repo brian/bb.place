@@ -1,6 +1,9 @@
 ---
 title: "It wasn't about getting there"
 slug: "it-wasnt-about-getting-there"
+url: /uncommon/story/it-wasnt-about-getting-there/
+aliases:
+  - /it-wasnt-about-getting-there/
 date: 2013-03-26T12:00:00Z
 draft: false
 type: "post"

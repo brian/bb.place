@@ -1,6 +1,9 @@
 ---
 title: "Heartfelt tributes to selfless love"
 slug: "heartfelt-tributes-to-selfless-love"
+url: /uncommon/story/heartfelt-tributes-to-selfless-love/
+aliases:
+  - /heartfelt-tributes-to-selfless-love/
 date: 2013-01-15T12:00:00Z
 draft: false
 type: "post"

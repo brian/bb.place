@@ -1,6 +1,9 @@
 ---
 title: "There is no such thing as a bad juggler"
 slug: "there-is-no-such-thing-as-a-bad-juggler"
+url: /uncommon/story/there-is-no-such-thing-as-a-bad-juggler/
+aliases:
+  - /there-is-no-such-thing-as-a-bad-juggler/
 date: 2014-02-25T12:00:00Z
 draft: false
 type: "post"

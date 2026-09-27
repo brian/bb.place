@@ -1,6 +1,9 @@
 ---
 title: "To be kept spellbound"
 slug: "to-be-kept-spellbound"
+url: /uncommon/story/to-be-kept-spellbound/
+aliases:
+  - /to-be-kept-spellbound/
 date: 2015-05-19T11:00:00Z
 draft: false
 type: "post"

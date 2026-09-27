@@ -1,6 +1,9 @@
 ---
 title: "A leap into the dark"
 slug: "a-leap-into-the-dark"
+url: /uncommon/story/a-leap-into-the-dark/
+aliases:
+  - /a-leap-into-the-dark/
 date: 2014-09-02T11:00:00Z
 draft: false
 type: "post"

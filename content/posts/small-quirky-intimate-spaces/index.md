@@ -1,6 +1,9 @@
 ---
 title: "Small, quirky, intimate spaces"
 slug: "small-quirky-intimate-spaces"
+url: /uncommon/story/small-quirky-intimate-spaces/
+aliases:
+  - /small-quirky-intimate-spaces/
 date: 2013-09-24T11:00:00Z
 draft: false
 type: "post"

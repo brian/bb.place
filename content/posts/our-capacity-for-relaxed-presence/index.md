@@ -1,6 +1,9 @@
 ---
 title: "Our capacity for relaxed presence"
 slug: "our-capacity-for-relaxed-presence"
+url: /uncommon/story/our-capacity-for-relaxed-presence/
+aliases:
+  - /our-capacity-for-relaxed-presence/
 date: 2013-06-04T11:00:00Z
 draft: false
 type: "post"

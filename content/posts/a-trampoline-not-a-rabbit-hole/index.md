@@ -1,6 +1,9 @@
 ---
 title: "A trampoline, not a rabbit hole"
 slug: "a-trampoline-not-a-rabbit-hole"
+url: /uncommon/story/a-trampoline-not-a-rabbit-hole/
+aliases:
+  - /a-trampoline-not-a-rabbit-hole/
 date: 2012-08-07T05:00:00Z
 draft: false
 type: "post"

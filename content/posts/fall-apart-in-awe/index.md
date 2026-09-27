@@ -1,6 +1,9 @@
 ---
 title: "Fall apart in awe"
 slug: "fall-apart-in-awe"
+url: /uncommon/story/fall-apart-in-awe/
+aliases:
+  - /fall-apart-in-awe/
 date: 2015-06-30T11:00:00Z
 draft: false
 type: "post"

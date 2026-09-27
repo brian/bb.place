@@ -1,6 +1,9 @@
 ---
 title: "To bring about the calm"
 slug: "to-bring-about-the-calm"
+url: /uncommon/story/to-bring-about-the-calm/
+aliases:
+  - /to-bring-about-the-calm/
 date: 2013-01-29T12:00:00Z
 draft: false
 type: "post"

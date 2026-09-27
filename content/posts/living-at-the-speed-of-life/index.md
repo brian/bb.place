@@ -1,6 +1,9 @@
 ---
 title: "Living at the speed of life"
 slug: "living-at-the-speed-of-life"
+url: /uncommon/story/living-at-the-speed-of-life/
+aliases:
+  - /living-at-the-speed-of-life/
 date: 2015-10-27T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "To just be in that moment"
 slug: "to-just-be-in-that-moment"
+url: /uncommon/story/to-just-be-in-that-moment/
+aliases:
+  - /to-just-be-in-that-moment/
 date: 2016-01-05T12:00:00Z
 draft: false
 type: "post"

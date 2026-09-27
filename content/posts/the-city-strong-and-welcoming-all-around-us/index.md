@@ -1,6 +1,9 @@
 ---
 title: "The city strong and welcoming all around us"
 slug: "the-city-strong-and-welcoming-all-around-us"
+url: /uncommon/story/the-city-strong-and-welcoming-all-around-us/
+aliases:
+  - /the-city-strong-and-welcoming-all-around-us/
 date: 2012-08-28T05:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "A little patch of warmth and light"
 slug: "a-little-patch-of-warmth-and-light"
+url: /uncommon/story/a-little-patch-of-warmth-and-light/
+aliases:
+  - /a-little-patch-of-warmth-and-light/
 date: 2015-07-28T11:00:00Z
 draft: false
 type: "post"

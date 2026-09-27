@@ -1,6 +1,9 @@
 ---
 title: "Waking up early with excitement"
 slug: "waking-up-early-with-excitement"
+url: /uncommon/story/waking-up-early-with-excitement/
+aliases:
+  - /waking-up-early-with-excitement/
 date: 2015-09-29T11:00:00Z
 draft: false
 type: "post"

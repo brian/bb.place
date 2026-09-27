@@ -1,6 +1,9 @@
 ---
 title: "To simply get up and go"
 slug: "to-simply-get-up-and-go"
+url: /uncommon/story/to-simply-get-up-and-go/
+aliases:
+  - /to-simply-get-up-and-go/
 date: 2013-03-19T12:00:00Z
 draft: false
 type: "post"

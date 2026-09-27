@@ -1,6 +1,9 @@
 ---
 title: "A vortex of delight"
 slug: "a-vortex-of-delight"
+url: /uncommon/story/a-vortex-of-delight/
+aliases:
+  - /a-vortex-of-delight/
 date: 2014-03-25T12:00:00Z
 draft: false
 type: "post"

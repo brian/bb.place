@@ -1,6 +1,9 @@
 ---
 title: "To somehow harness the auspicious wonder"
 slug: "to-somehow-harness-the-auspicious-wonder"
+url: /uncommon/story/to-somehow-harness-the-auspicious-wonder/
+aliases:
+  - /to-somehow-harness-the-auspicious-wonder/
 date: 2013-04-09T11:00:00Z
 draft: false
 type: "post"

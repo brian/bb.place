@@ -1,6 +1,9 @@
 ---
 title: "Sand wedged between paperback pages"
 slug: "sand-wedged-between-paperback-pages"
+url: /uncommon/story/sand-wedged-between-paperback-pages/
+aliases:
+  - /sand-wedged-between-paperback-pages/
 date: 2013-06-18T11:00:00Z
 draft: false
 type: "post"

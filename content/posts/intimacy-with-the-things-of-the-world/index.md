@@ -1,6 +1,9 @@
 ---
 title: "Intimacy with the things of the world"
 slug: "intimacy-with-the-things-of-the-world"
+url: /uncommon/story/intimacy-with-the-things-of-the-world/
+aliases:
+  - /intimacy-with-the-things-of-the-world/
 date: 2014-01-07T12:00:00Z
 draft: false
 type: "post"

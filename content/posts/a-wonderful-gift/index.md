@@ -1,6 +1,9 @@
 ---
 title: "A wonderful gift"
 slug: "a-wonderful-gift"
+url: /uncommon/story/a-wonderful-gift/
+aliases:
+  - /a-wonderful-gift/
 date: 2015-12-08T12:00:00Z
 draft: false
 type: "post"

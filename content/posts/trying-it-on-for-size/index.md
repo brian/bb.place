@@ -1,6 +1,9 @@
 ---
 title: "Trying it on for size"
 slug: "trying-it-on-for-size"
+url: /uncommon/story/trying-it-on-for-size/
+aliases:
+  - /trying-it-on-for-size/
 date: 2014-04-29T11:00:00Z
 draft: false
 type: "post"

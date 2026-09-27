@@ -1,6 +1,9 @@
 ---
 title: "Member Newsletter #20"
 slug: "member-newsletter-20"
+url: /uncommon/story/member-newsletter-20/
+aliases:
+  - /member-newsletter-20/
 date: 2016-01-01T12:00:00Z
 draft: false
 type: "post"

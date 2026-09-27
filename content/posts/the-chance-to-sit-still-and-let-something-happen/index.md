@@ -1,6 +1,9 @@
 ---
 title: "The chance to sit still and let something happen"
 slug: "the-chance-to-sit-still-and-let-something-happen"
+url: /uncommon/story/the-chance-to-sit-still-and-let-something-happen/
+aliases:
+  - /the-chance-to-sit-still-and-let-something-happen/
 date: 2013-11-05T12:00:00Z
 draft: false
 type: "post"

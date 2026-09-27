@@ -1,6 +1,9 @@
 ---
 title: "Whirling in new directions"
 slug: "whirling-in-new-directions"
+url: /uncommon/story/whirling-in-new-directions/
+aliases:
+  - /whirling-in-new-directions/
 date: 2016-01-19T12:00:00Z
 draft: false
 type: "post"

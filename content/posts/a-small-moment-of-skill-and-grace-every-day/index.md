@@ -1,6 +1,9 @@
 ---
 title: "A small moment of skill and grace, every day"
 slug: "a-small-moment-of-skill-and-grace-every-day"
+url: /uncommon/story/a-small-moment-of-skill-and-grace-every-day/
+aliases:
+  - /a-small-moment-of-skill-and-grace-every-day/
 date: 2014-03-04T12:00:00Z
 draft: false
 type: "post"

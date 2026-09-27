@@ -1,6 +1,9 @@
 ---
 title: "So many tucked away spaces"
 slug: "so-many-tucked-away-spaces"
+url: /uncommon/story/so-many-tucked-away-spaces/
+aliases:
+  - /so-many-tucked-away-spaces/
 date: 2014-05-13T11:00:00Z
 draft: false
 type: "post"

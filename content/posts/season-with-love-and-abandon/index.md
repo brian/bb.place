@@ -1,6 +1,9 @@
 ---
 title: "Season with love and abandon"
 slug: "season-with-love-and-abandon"
+url: /uncommon/story/season-with-love-and-abandon/
+aliases:
+  - /season-with-love-and-abandon/
 date: 2013-04-16T11:00:00Z
 draft: false
 type: "post"

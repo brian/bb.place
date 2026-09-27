@@ -1,6 +1,9 @@
 ---
 title: "A purity of fun"
 slug: "a-purity-of-fun"
+url: /uncommon/story/a-purity-of-fun/
+aliases:
+  - /a-purity-of-fun/
 date: 2015-04-07T11:00:00Z
 draft: false
 type: "post"

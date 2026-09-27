@@ -1,6 +1,9 @@
 ---
 title: "Wondering what magic will happen"
 slug: "wondering-what-magic-will-happen"
+url: /uncommon/story/wondering-what-magic-will-happen/
+aliases:
+  - /wondering-what-magic-will-happen/
 date: 2015-09-15T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "A subtle hint of true empathy"
 slug: "a-subtle-hint-of-true-empathy"
+url: /uncommon/story/a-subtle-hint-of-true-empathy/
+aliases:
+  - /a-subtle-hint-of-true-empathy/
 date: 2014-10-07T11:00:00Z
 draft: false
 type: "post"

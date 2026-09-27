@@ -1,6 +1,9 @@
 ---
 title: "The tingly energy of tight harmonies"
 slug: "the-tingly-energy-of-tight-harmonies"
+url: /uncommon/story/the-tingly-energy-of-tight-harmonies/
+aliases:
+  - /the-tingly-energy-of-tight-harmonies/
 date: 2013-10-22T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Small embodiments of possibility"
 slug: "small-embodiments-of-possibility"
+url: /uncommon/story/small-embodiments-of-possibility/
+aliases:
+  - /small-embodiments-of-possibility/
 date: 2012-09-18T11:00:00Z
 draft: false
 type: "post"

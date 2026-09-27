@@ -1,6 +1,9 @@
 ---
 title: "A synesthetic flashback tour"
 slug: "a-synesthetic-flashback-tour"
+url: /uncommon/story/a-synesthetic-flashback-tour/
+aliases:
+  - /a-synesthetic-flashback-tour/
 date: 2014-01-14T12:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Sparks of friendship and love"
 slug: "sparks-of-friendship-and-love"
+url: /uncommon/story/sparks-of-friendship-and-love/
+aliases:
+  - /sparks-of-friendship-and-love/
 date: 2015-03-10T12:00:00Z
 draft: false
 type: "post"

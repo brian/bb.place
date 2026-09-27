@@ -1,6 +1,9 @@
 ---
 title: "Always tinged with the hope of next time"
 slug: "always-tinged-with-the-hope-of-next-time"
+url: /uncommon/story/always-tinged-with-the-hope-of-next-time/
+aliases:
+  - /always-tinged-with-the-hope-of-next-time/
 date: 2012-12-11T12:00:00Z
 draft: false
 type: "post"

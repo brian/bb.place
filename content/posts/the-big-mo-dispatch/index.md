@@ -1,6 +1,9 @@
 ---
 title: "The Big Mo"
 slug: "the-big-mo-dispatch"
+url: /uncommon/story/the-big-mo-dispatch/
+aliases:
+  - /the-big-mo-dispatch/
 date: 2016-08-02T11:00:00Z
 draft: false
 type: "post"

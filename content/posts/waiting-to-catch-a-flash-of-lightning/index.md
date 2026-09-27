@@ -1,6 +1,9 @@
 ---
 title: "Waiting to catch a flash of lightning"
 slug: "waiting-to-catch-a-flash-of-lightning"
+url: /uncommon/story/waiting-to-catch-a-flash-of-lightning/
+aliases:
+  - /waiting-to-catch-a-flash-of-lightning/
 date: 2014-08-05T11:00:00Z
 draft: false
 type: "post"

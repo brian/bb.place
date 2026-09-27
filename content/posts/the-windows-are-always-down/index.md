@@ -1,6 +1,9 @@
 ---
 title: "The windows are always down"
 slug: "the-windows-are-always-down"
+url: /uncommon/story/the-windows-are-always-down/
+aliases:
+  - /the-windows-are-always-down/
 date: 2014-08-12T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Seconds of unfiltered inspiration"
 slug: "seconds-of-unfiltered-inspiration"
+url: /uncommon/story/seconds-of-unfiltered-inspiration/
+aliases:
+  - /seconds-of-unfiltered-inspiration/
 date: 2014-09-23T11:00:00Z
 draft: false
 type: "post"

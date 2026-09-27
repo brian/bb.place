@@ -1,6 +1,9 @@
 ---
 title: "Slowly together"
 slug: "slowly-together"
+url: /uncommon/story/slowly-together/
+aliases:
+  - /slowly-together/
 date: 2016-10-01T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Away from convention"
 slug: "away-from-convention"
+url: /uncommon/story/away-from-convention/
+aliases:
+  - /away-from-convention/
 date: 2013-09-17T11:00:00Z
 draft: false
 type: "post"

@@ -1,6 +1,9 @@
 ---
 title: "Waiting for the right moment on the porch"
 slug: "waiting-for-the-right-moment-on-the-porch"
+url: /uncommon/story/waiting-for-the-right-moment-on-the-porch/
+aliases:
+  - /waiting-for-the-right-moment-on-the-porch/
 date: 2013-08-20T11:00:00Z
 draft: false
 type: "post"

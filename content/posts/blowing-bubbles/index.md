@@ -1,6 +1,9 @@
 ---
 title: "Blowing bubbles"
 slug: "blowing-bubbles"
+url: /uncommon/story/blowing-bubbles/
+aliases:
+  - /blowing-bubbles/
 date: 2016-03-15T12:00:00Z
 draft: false
 type: "post"
